@@ -31,8 +31,7 @@ No backend and no build step. The repository includes one optional example datas
 │   └── utils.js
 ├── docs/
 ├── exports/
-│   ├── client-side-data-explorer-offline-demo.zip
-│   └── .gitkeep
+│   └── client-side-data-explorer-offline-demo.zip
 ├── AUTHORS
 └── LICENSE
 ```
