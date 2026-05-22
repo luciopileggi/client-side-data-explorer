@@ -1,0 +1,12 @@
+{
+  "brand": "Data Explorer",
+  "title": "Dataset records",
+  "eyebrow": "Reusable static explorer",
+  "datasetUrl": "data/research-support.dataset.json",
+  "searchPlaceholder": "Title, author, identifier, source",
+  "stats": {
+    "records": "records",
+    "years": "years",
+    "sources": "sources"
+  }
+}

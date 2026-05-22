@@ -1,0 +1,5086 @@
+[
+  {
+    "id": "research-support-sodomaco2026atomistic",
+    "title": "Atomistic QM/Classical Modeling of Surface-Enhanced Infrared Absorption",
+    "creator": [
+      {
+        "name": "Sveva Sodomaco",
+        "role": "author",
+        "family": "Sodomaco",
+        "given": "Sveva"
+      },
+      {
+        "name": "Piero Lafiosca",
+        "role": "author",
+        "family": "Lafiosca",
+        "given": "Piero"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2026,
+    "date": "2026-01-22",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in The Journal of Physical Chemistry C.",
+    "identifier": {
+      "doi": "10.1021/acs.jpcc.5c07549",
+      "pmid": "",
+      "url": "https://doi.org/10.1021/acs.jpcc.5c07549"
+    },
+    "source": {
+      "containerTitle": "The Journal of Physical Chemistry C",
+      "volume": "130",
+      "issue": "5",
+      "pages": "1919–1930",
+      "archive": "",
+      "archiveLocation": "sodomaco2026atomistic"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "the-journal-of-physical-chemistry-c"
+    ]
+  },
+  {
+    "id": "research-support-grobasillobre2026electric",
+    "title": "Electric Field Enhancements and Hot Spots in Amorphous Carbon Materials",
+    "creator": [
+      {
+        "name": "Pablo Grobas Illobre",
+        "role": "author",
+        "family": "Grobas Illobre",
+        "given": "Pablo"
+      },
+      {
+        "name": "Giorgio Conter",
+        "role": "author",
+        "family": "Conter",
+        "given": "Giorgio"
+      },
+      {
+        "name": "Luca Bonatti",
+        "role": "author",
+        "family": "Bonatti",
+        "given": "Luca"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Alessandro Fortunelli",
+        "role": "author",
+        "family": "Fortunelli",
+        "given": "Alessandro"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2026,
+    "date": "2026",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Small Structures.",
+    "identifier": {
+      "doi": "10.1002/sstr.202500733",
+      "pmid": "",
+      "url": "https://doi.org/10.1002/sstr.202500733"
+    },
+    "source": {
+      "containerTitle": "Small Structures",
+      "volume": "7",
+      "issue": "3",
+      "pages": "e202500733",
+      "archive": "",
+      "archiveLocation": "grobasillobre2026electric"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "small-structures"
+    ]
+  },
+  {
+    "id": "research-support-scholtz2025tentative",
+    "title": "Tentative rotation in a galaxy at z ∼ 14 with ALMA",
+    "creator": [
+      {
+        "name": "J. Scholtz",
+        "role": "author",
+        "family": "Scholtz",
+        "given": "J."
+      },
+      {
+        "name": "E. Parlanti",
+        "role": "author",
+        "family": "Parlanti",
+        "given": "E."
+      },
+      {
+        "name": "S. Carniani",
+        "role": "author",
+        "family": "Carniani",
+        "given": "S."
+      },
+      {
+        "name": "M. Kohandel",
+        "role": "author",
+        "family": "Kohandel",
+        "given": "M."
+      },
+      {
+        "name": "F. Sun",
+        "role": "author",
+        "family": "Sun",
+        "given": "F."
+      },
+      {
+        "name": "A. L. Danhaive",
+        "role": "author",
+        "family": "Danhaive",
+        "given": "A. L."
+      },
+      {
+        "name": "R. Maiolino",
+        "role": "author",
+        "family": "Maiolino",
+        "given": "R."
+      },
+      {
+        "name": "S. Arribas",
+        "role": "author",
+        "family": "Arribas",
+        "given": "S."
+      },
+      {
+        "name": "R. Bhatawdekar",
+        "role": "author",
+        "family": "Bhatawdekar",
+        "given": "R."
+      },
+      {
+        "name": "A. J. Bunker",
+        "role": "author",
+        "family": "Bunker",
+        "given": "A. J."
+      },
+      {
+        "name": "S. Charlot",
+        "role": "author",
+        "family": "Charlot",
+        "given": "S."
+      },
+      {
+        "name": "F. D’Eugenio",
+        "role": "author",
+        "family": "D’Eugenio",
+        "given": "F."
+      },
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      },
+      {
+        "name": "Z. Ji",
+        "role": "author",
+        "family": "Ji",
+        "given": "Z."
+      },
+      {
+        "name": "Gareth C. Jones",
+        "role": "author",
+        "family": "Jones",
+        "given": "Gareth C."
+      },
+      {
+        "name": "P. Rinaldi",
+        "role": "author",
+        "family": "Rinaldi",
+        "given": "P."
+      },
+      {
+        "name": "B. E. Robertson",
+        "role": "author",
+        "family": "Robertson",
+        "given": "B. E."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "I. Shivaei",
+        "role": "author",
+        "family": "Shivaei",
+        "given": "I."
+      },
+      {
+        "name": "Y. Sun",
+        "role": "author",
+        "family": "Sun",
+        "given": "Y."
+      },
+      {
+        "name": "S. Tacchella",
+        "role": "author",
+        "family": "Tacchella",
+        "given": "S."
+      },
+      {
+        "name": "H. Übler",
+        "role": "author",
+        "family": "Übler",
+        "given": "H."
+      },
+      {
+        "name": "G. Venturi",
+        "role": "author",
+        "family": "Venturi",
+        "given": "G."
+      }
+    ],
+    "year": 2025,
+    "date": "2025-10-27",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Monthly Notices of the Royal Astronomical Society: Letters.",
+    "identifier": {
+      "doi": "10.1093/mnrasl/slaf109",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnrasl/slaf109"
+    },
+    "source": {
+      "containerTitle": "Monthly Notices of the Royal Astronomical Society: Letters",
+      "volume": "544",
+      "issue": "1",
+      "pages": "L113–L120",
+      "archive": "",
+      "archiveLocation": "scholtz2025tentative"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "monthly-notices-of-the-royal-astronomical-society-letters"
+    ]
+  },
+  {
+    "id": "research-support-breitman2025sample",
+    "title": "Sample variance denoising in cylindrical 21 cm power spectra",
+    "creator": [
+      {
+        "name": "D. Breitman",
+        "role": "author",
+        "family": "Breitman",
+        "given": "D."
+      },
+      {
+        "name": "A. Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "A."
+      },
+      {
+        "name": "S. G. Murray",
+        "role": "author",
+        "family": "Murray",
+        "given": "S. G."
+      },
+      {
+        "name": "A. Acharya",
+        "role": "author",
+        "family": "Acharya",
+        "given": "A."
+      }
+    ],
+    "year": 2025,
+    "date": "2025",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Astronomy & Astrophysics.",
+    "identifier": {
+      "doi": "10.1051/0004-6361/202556449",
+      "pmid": "",
+      "url": "https://doi.org/10.1051/0004-6361/202556449"
+    },
+    "source": {
+      "containerTitle": "Astronomy & Astrophysics",
+      "volume": "703",
+      "issue": "",
+      "pages": "A130",
+      "archive": "",
+      "archiveLocation": "breitman2025sample"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "astronomy-astrophysics"
+    ]
+  },
+  {
+    "id": "research-support-nikolic2025mapping",
+    "title": "Mapping reionization bubbles in JWST era - II. Inferring the position and characteristic size of individual bubbles",
+    "creator": [
+      {
+        "name": "I. Nikolić",
+        "role": "author",
+        "family": "Nikolić",
+        "given": "I."
+      },
+      {
+        "name": "A. Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "A."
+      },
+      {
+        "name": "C. A. Mason",
+        "role": "author",
+        "family": "Mason",
+        "given": "C. A."
+      },
+      {
+        "name": "T.-Y. Lu",
+        "role": "author",
+        "family": "Lu",
+        "given": "T.-Y."
+      },
+      {
+        "name": "M. Tang",
+        "role": "author",
+        "family": "Tang",
+        "given": "M."
+      },
+      {
+        "name": "D. Prelogović",
+        "role": "author",
+        "family": "Prelogović",
+        "given": "D."
+      },
+      {
+        "name": "S. Gagnon-Hartman",
+        "role": "author",
+        "family": "Gagnon-Hartman",
+        "given": "S."
+      },
+      {
+        "name": "D. P. Stark",
+        "role": "author",
+        "family": "Stark",
+        "given": "D. P."
+      }
+    ],
+    "year": 2025,
+    "date": "2025",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Astronomy & Astrophysics.",
+    "identifier": {
+      "doi": "10.1051/0004-6361/202553756",
+      "pmid": "",
+      "url": "https://doi.org/10.1051/0004-6361/202553756"
+    },
+    "source": {
+      "containerTitle": "Astronomy & Astrophysics",
+      "volume": "699",
+      "issue": "",
+      "pages": "A323",
+      "archive": "",
+      "archiveLocation": "nikolic2025mapping"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "astronomy-astrophysics"
+    ]
+  },
+  {
+    "id": "research-support-carli2025cellhit",
+    "title": "CellHit: a web server to predict and analyze cancer patients' drug responsiveness",
+    "creator": [
+      {
+        "name": "F. Carli",
+        "role": "author",
+        "family": "Carli",
+        "given": "F."
+      },
+      {
+        "name": "N. De Oliveira Rosa",
+        "role": "author",
+        "family": "De Oliveira Rosa",
+        "given": "N."
+      },
+      {
+        "name": "S. Blotas",
+        "role": "author",
+        "family": "Blotas",
+        "given": "S."
+      },
+      {
+        "name": "P. Di Chiaro",
+        "role": "author",
+        "family": "Di Chiaro",
+        "given": "P."
+      },
+      {
+        "name": "L. Bisceglia",
+        "role": "author",
+        "family": "Bisceglia",
+        "given": "L."
+      },
+      {
+        "name": "M. Morelli",
+        "role": "author",
+        "family": "Morelli",
+        "given": "M."
+      },
+      {
+        "name": "F. Lessi",
+        "role": "author",
+        "family": "Lessi",
+        "given": "F."
+      },
+      {
+        "name": "A. L. Di Stefano",
+        "role": "author",
+        "family": "Di Stefano",
+        "given": "A. L."
+      },
+      {
+        "name": "C. M. Mazzanti",
+        "role": "author",
+        "family": "Mazzanti",
+        "given": "C. M."
+      },
+      {
+        "name": "G. Natoli",
+        "role": "author",
+        "family": "Natoli",
+        "given": "G."
+      },
+      {
+        "name": "F. Raimondi",
+        "role": "author",
+        "family": "Raimondi",
+        "given": "F."
+      }
+    ],
+    "year": 2025,
+    "date": "2025",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Nucleic acids research.",
+    "identifier": {
+      "doi": "10.1093/nar/gkaf414",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/nar/gkaf414"
+    },
+    "source": {
+      "containerTitle": "Nucleic acids research",
+      "volume": "53",
+      "issue": "W1",
+      "pages": "W143–W150",
+      "archive": "",
+      "archiveLocation": "carli2025cellhit"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "nucleic-acids-research"
+    ]
+  },
+  {
+    "id": "research-support-carli2025learning",
+    "title": "Learning and actioning general principles of cancer cell drug sensitivity",
+    "creator": [
+      {
+        "name": "F. Carli",
+        "role": "author",
+        "family": "Carli",
+        "given": "F."
+      },
+      {
+        "name": "P. Di Chiaro",
+        "role": "author",
+        "family": "Di Chiaro",
+        "given": "P."
+      },
+      {
+        "name": "M. Morelli",
+        "role": "author",
+        "family": "Morelli",
+        "given": "M."
+      },
+      {
+        "name": "C. Arora",
+        "role": "author",
+        "family": "Arora",
+        "given": "C."
+      },
+      {
+        "name": "L. Bisceglia",
+        "role": "author",
+        "family": "Bisceglia",
+        "given": "L."
+      },
+      {
+        "name": "N. De Oliveira Rosa",
+        "role": "author",
+        "family": "De Oliveira Rosa",
+        "given": "N."
+      },
+      {
+        "name": "A. Cortesi",
+        "role": "author",
+        "family": "Cortesi",
+        "given": "A."
+      },
+      {
+        "name": "S. Franceschi",
+        "role": "author",
+        "family": "Franceschi",
+        "given": "S."
+      },
+      {
+        "name": "F. Lessi",
+        "role": "author",
+        "family": "Lessi",
+        "given": "F."
+      },
+      {
+        "name": "A. L. Di Stefano",
+        "role": "author",
+        "family": "Di Stefano",
+        "given": "A. L."
+      },
+      {
+        "name": "O. S. Santonocito",
+        "role": "author",
+        "family": "Santonocito",
+        "given": "O. S."
+      },
+      {
+        "name": "F. Pasqualetti",
+        "role": "author",
+        "family": "Pasqualetti",
+        "given": "F."
+      },
+      {
+        "name": "P. Aretini",
+        "role": "author",
+        "family": "Aretini",
+        "given": "P."
+      },
+      {
+        "name": "P. Miglionico",
+        "role": "author",
+        "family": "Miglionico",
+        "given": "P."
+      },
+      {
+        "name": "G. R. Diaferia",
+        "role": "author",
+        "family": "Diaferia",
+        "given": "G. R."
+      },
+      {
+        "name": "F. Giannotti",
+        "role": "author",
+        "family": "Giannotti",
+        "given": "F."
+      },
+      {
+        "name": "P. Liò",
+        "role": "author",
+        "family": "Liò",
+        "given": "P."
+      },
+      {
+        "name": "M. Duran-Frigola",
+        "role": "author",
+        "family": "Duran-Frigola",
+        "given": "M."
+      },
+      {
+        "name": "C. M. Mazzanti",
+        "role": "author",
+        "family": "Mazzanti",
+        "given": "C. M."
+      },
+      {
+        "name": "G. Natoli",
+        "role": "author",
+        "family": "Natoli",
+        "given": "G."
+      },
+      {
+        "name": "F. Raimondi",
+        "role": "author",
+        "family": "Raimondi",
+        "given": "F."
+      }
+    ],
+    "year": 2025,
+    "date": "2025",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Nature Communications.",
+    "identifier": {
+      "doi": "10.1038/s41467-025-56827-5",
+      "pmid": "",
+      "url": "https://doi.org/10.1038/s41467-025-56827-5"
+    },
+    "source": {
+      "containerTitle": "Nature Communications",
+      "volume": "16",
+      "issue": "1",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "carli2025learning"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "nature-communications"
+    ]
+  },
+  {
+    "id": "research-support-pallottini2025mass",
+    "title": "The mass-metallicity relation as a ruler for galaxy evolution: Insights from the James Webb Space Telescope",
+    "creator": [
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      },
+      {
+        "name": "S. Gallerani",
+        "role": "author",
+        "family": "Gallerani",
+        "given": "S."
+      },
+      {
+        "name": "L. Sommovigo",
+        "role": "author",
+        "family": "Sommovigo",
+        "given": "L."
+      },
+      {
+        "name": "S. Carniani",
+        "role": "author",
+        "family": "Carniani",
+        "given": "S."
+      },
+      {
+        "name": "L. Vallini",
+        "role": "author",
+        "family": "Vallini",
+        "given": "L."
+      },
+      {
+        "name": "M. Kohandel",
+        "role": "author",
+        "family": "Kohandel",
+        "given": "M."
+      },
+      {
+        "name": "G. Venturi",
+        "role": "author",
+        "family": "Venturi",
+        "given": "G."
+      }
+    ],
+    "year": 2025,
+    "date": "2025",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Astronomy & Astrophysics.",
+    "identifier": {
+      "doi": "10.1051/0004-6361/202451742",
+      "pmid": "",
+      "url": "https://doi.org/10.1051/0004-6361/202451742"
+    },
+    "source": {
+      "containerTitle": "Astronomy & Astrophysics",
+      "volume": "699",
+      "issue": "",
+      "pages": "A6",
+      "archive": "",
+      "archiveLocation": "pallottini2025mass"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "astronomy-astrophysics"
+    ]
+  },
+  {
+    "id": "research-support-matteri2025can",
+    "title": "Can primordial black holes explain the overabundance of bright super-early galaxies?",
+    "creator": [
+      {
+        "name": "A. Matteri",
+        "role": "author",
+        "family": "Matteri",
+        "given": "A."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      }
+    ],
+    "year": 2025,
+    "date": "2025",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Astronomy & Astrophysics.",
+    "identifier": {
+      "doi": "10.1051/0004-6361/202553701",
+      "pmid": "",
+      "url": "https://doi.org/10.1051/0004-6361/202553701"
+    },
+    "source": {
+      "containerTitle": "Astronomy & Astrophysics",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "matteri2025can"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "astronomy-astrophysics"
+    ]
+  },
+  {
+    "id": "research-support-markov2025evolution",
+    "title": "The evolution of dust attenuation in z ≈ 2–12 galaxies observed by JWST",
+    "creator": [
+      {
+        "name": "V. Markov",
+        "role": "author",
+        "family": "Markov",
+        "given": "V."
+      },
+      {
+        "name": "S. Gallerani",
+        "role": "author",
+        "family": "Gallerani",
+        "given": "S."
+      },
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "E. Parlanti",
+        "role": "author",
+        "family": "Parlanti",
+        "given": "E."
+      },
+      {
+        "name": "F. Di Mascia",
+        "role": "author",
+        "family": "Di Mascia",
+        "given": "F."
+      },
+      {
+        "name": "L. Sommovigo",
+        "role": "author",
+        "family": "Sommovigo",
+        "given": "L."
+      },
+      {
+        "name": "M. Kohandel",
+        "role": "author",
+        "family": "Kohandel",
+        "given": "M."
+      }
+    ],
+    "year": 2025,
+    "date": "2025",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Nature Astronomy.",
+    "identifier": {
+      "doi": "10.1038/s41550-024-02426-1",
+      "pmid": "",
+      "url": "https://doi.org/10.1038/s41550-024-02426-1"
+    },
+    "source": {
+      "containerTitle": "Nature Astronomy",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "markov2025evolution"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "nature-astronomy"
+    ]
+  },
+  {
+    "id": "research-support-sagresti2025simulating",
+    "title": "Simulating Metal Complex Formation and Ligand Exchange: Unraveling the Interplay between Entropy, Kinetics, and Mechanisms on the Chelate Effect",
+    "creator": [
+      {
+        "name": "L. Sagresti",
+        "role": "author",
+        "family": "Sagresti",
+        "given": "L."
+      },
+      {
+        "name": "L. Benedetti",
+        "role": "author",
+        "family": "Benedetti",
+        "given": "L."
+      },
+      {
+        "name": "K. M. Merz",
+        "role": "author",
+        "family": "Merz",
+        "given": "K. M."
+      },
+      {
+        "name": "G. Brancato",
+        "role": "author",
+        "family": "Brancato",
+        "given": "G."
+      }
+    ],
+    "year": 2025,
+    "date": "2025",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Journal of Chemical Theory and Computation.",
+    "identifier": {
+      "doi": "10.1021/acs.jctc.5c01079",
+      "pmid": "",
+      "url": "https://doi.org/10.1021/acs.jctc.5c01079"
+    },
+    "source": {
+      "containerTitle": "Journal of Chemical Theory and Computation",
+      "volume": "21",
+      "issue": "18",
+      "pages": "8950-8962",
+      "archive": "",
+      "archiveLocation": "sagresti2025simulating"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "journal-of-chemical-theory-and-computation"
+    ]
+  },
+  {
+    "id": "research-support-illobre2025mixed",
+    "title": "Mixed atomistic-implicit quantum/classical approach to molecular nanoplasmonics",
+    "creator": [
+      {
+        "name": "P. G. Illobre",
+        "role": "author",
+        "family": "Illobre",
+        "given": "P. G."
+      },
+      {
+        "name": "P. Lafiosca",
+        "role": "author",
+        "family": "Lafiosca",
+        "given": "P."
+      },
+      {
+        "name": "L. Bonatti",
+        "role": "author",
+        "family": "Bonatti",
+        "given": "L."
+      },
+      {
+        "name": "T. Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "T."
+      },
+      {
+        "name": "C. Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "C."
+      }
+    ],
+    "year": 2025,
+    "date": "2025",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in The Journal of Chemical Physics.",
+    "identifier": {
+      "doi": "10.1063/5.0245629",
+      "pmid": "",
+      "url": "https://doi.org/10.1063/5.0245629"
+    },
+    "source": {
+      "containerTitle": "The Journal of Chemical Physics",
+      "volume": "162",
+      "issue": "4",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "illobre2025mixed"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "the-journal-of-chemical-physics"
+    ]
+  },
+  {
+    "id": "research-support-giovannini2024timedependent",
+    "title": "Time-Dependent Multilevel Density Functional Theory",
+    "creator": [
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Marco Scavino",
+        "role": "author",
+        "family": "Scavino",
+        "given": "Marco"
+      },
+      {
+        "name": "Henrik Koch",
+        "role": "author",
+        "family": "Koch",
+        "given": "Henrik"
+      }
+    ],
+    "year": 2024,
+    "date": "2024-04-22",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Journal of Chemical Theory and Computation.",
+    "identifier": {
+      "doi": "10.1021/acs.jctc.4c00041",
+      "pmid": "38648031",
+      "url": "https://doi.org/10.1021/acs.jctc.4c00041"
+    },
+    "source": {
+      "containerTitle": "Journal of Chemical Theory and Computation",
+      "volume": "20",
+      "issue": "9",
+      "pages": "3601–3612",
+      "archive": "",
+      "archiveLocation": "giovannini2024timedependent"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "journal-of-chemical-theory-and-computation"
+    ]
+  },
+  {
+    "id": "research-support-nikolic2024importance",
+    "title": "The importance of stochasticity in determining galaxy emissivities and UV LFs during cosmic dawn and reionization",
+    "creator": [
+      {
+        "name": "I. Nikolić",
+        "role": "author",
+        "family": "Nikolić",
+        "given": "I."
+      },
+      {
+        "name": "A. Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "A."
+      },
+      {
+        "name": "J. E. Davies",
+        "role": "author",
+        "family": "Davies",
+        "given": "J. E."
+      },
+      {
+        "name": "D. Prelogović",
+        "role": "author",
+        "family": "Prelogović",
+        "given": "D."
+      }
+    ],
+    "year": 2024,
+    "date": "2024",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Astronomy & Astrophysics.",
+    "identifier": {
+      "doi": "10.1051/0004-6361/202451213",
+      "pmid": "",
+      "url": "https://doi.org/10.1051/0004-6361/202451213"
+    },
+    "source": {
+      "containerTitle": "Astronomy & Astrophysics",
+      "volume": "692",
+      "issue": "",
+      "pages": "A142",
+      "archive": "",
+      "archiveLocation": "nikolic2024importance"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "astronomy-astrophysics"
+    ]
+  },
+  {
+    "id": "research-support-arora2024landscape",
+    "title": "The landscape of cancer-rewired GPCR signaling axes",
+    "creator": [
+      {
+        "name": "C. Arora",
+        "role": "author",
+        "family": "Arora",
+        "given": "C."
+      },
+      {
+        "name": "M. Matic",
+        "role": "author",
+        "family": "Matic",
+        "given": "M."
+      },
+      {
+        "name": "L. Bisceglia",
+        "role": "author",
+        "family": "Bisceglia",
+        "given": "L."
+      },
+      {
+        "name": "P. Di Chiaro",
+        "role": "author",
+        "family": "Di Chiaro",
+        "given": "P."
+      },
+      {
+        "name": "N. De Oliveira Rosa",
+        "role": "author",
+        "family": "De Oliveira Rosa",
+        "given": "N."
+      },
+      {
+        "name": "F. Carli",
+        "role": "author",
+        "family": "Carli",
+        "given": "F."
+      },
+      {
+        "name": "L. Clubb",
+        "role": "author",
+        "family": "Clubb",
+        "given": "L."
+      },
+      {
+        "name": "L. A. Nemati Fard",
+        "role": "author",
+        "family": "Nemati Fard",
+        "given": "L. A."
+      },
+      {
+        "name": "G. Kargas",
+        "role": "author",
+        "family": "Kargas",
+        "given": "G."
+      },
+      {
+        "name": "G. R. Diaferia",
+        "role": "author",
+        "family": "Diaferia",
+        "given": "G. R."
+      },
+      {
+        "name": "R. Vukotic",
+        "role": "author",
+        "family": "Vukotic",
+        "given": "R."
+      },
+      {
+        "name": "L. Licata",
+        "role": "author",
+        "family": "Licata",
+        "given": "L."
+      },
+      {
+        "name": "G. Wu",
+        "role": "author",
+        "family": "Wu",
+        "given": "G."
+      },
+      {
+        "name": "G. Natoli",
+        "role": "author",
+        "family": "Natoli",
+        "given": "G."
+      },
+      {
+        "name": "J. S. Gutkind",
+        "role": "author",
+        "family": "Gutkind",
+        "given": "J. S."
+      },
+      {
+        "name": "F. Raimondi",
+        "role": "author",
+        "family": "Raimondi",
+        "given": "F."
+      }
+    ],
+    "year": 2024,
+    "date": "2024",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Cell Genomics.",
+    "identifier": {
+      "doi": "10.1016/j.xgen.2024.100557",
+      "pmid": "",
+      "url": "https://doi.org/10.1016/j.xgen.2024.100557"
+    },
+    "source": {
+      "containerTitle": "Cell Genomics",
+      "volume": "4",
+      "issue": "5",
+      "pages": "100557",
+      "archive": "",
+      "archiveLocation": "arora2024landscape"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "cell-genomics"
+    ]
+  },
+  {
+    "id": "research-support-branca2024emulating",
+    "title": "Emulating the interstellar medium chemistry with neural operators",
+    "creator": [
+      {
+        "name": "L. Branca",
+        "role": "author",
+        "family": "Branca",
+        "given": "L."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      }
+    ],
+    "year": 2024,
+    "date": "2024",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Astronomy & Astrophysics.",
+    "identifier": {
+      "doi": "10.1051/0004-6361/202449193",
+      "pmid": "",
+      "url": "https://doi.org/10.1051/0004-6361/202449193"
+    },
+    "source": {
+      "containerTitle": "Astronomy & Astrophysics",
+      "volume": "684",
+      "issue": "",
+      "pages": "A203",
+      "archive": "",
+      "archiveLocation": "branca2024emulating"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "astronomy-astrophysics"
+    ]
+  },
+  {
+    "id": "research-support-branca2023neural",
+    "title": "Neural networks: solving the chemistry of the interstellar medium",
+    "creator": [
+      {
+        "name": "L. Branca",
+        "role": "author",
+        "family": "Branca",
+        "given": "L."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      }
+    ],
+    "year": 2023,
+    "date": "2023",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Monthly Notices of the Royal Astronomical Society.",
+    "identifier": {
+      "doi": "10.1093/mnras/stac3512",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stac3512"
+    },
+    "source": {
+      "containerTitle": "Monthly Notices of the Royal Astronomical Society",
+      "volume": "518",
+      "issue": "4",
+      "pages": "5718-5733",
+      "archive": "",
+      "archiveLocation": "branca2023neural"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "monthly-notices-of-the-royal-astronomical-society"
+    ]
+  },
+  {
+    "id": "research-support-matic2023gpcrome",
+    "title": "GPCRome-wide analysis of G-protein-coupling diversity using a computational biology approach",
+    "creator": [
+      {
+        "name": "M. Matic",
+        "role": "author",
+        "family": "Matic",
+        "given": "M."
+      },
+      {
+        "name": "P. Miglionico",
+        "role": "author",
+        "family": "Miglionico",
+        "given": "P."
+      },
+      {
+        "name": "M. Tatsumi",
+        "role": "author",
+        "family": "Tatsumi",
+        "given": "M."
+      },
+      {
+        "name": "A. Inoue",
+        "role": "author",
+        "family": "Inoue",
+        "given": "A."
+      },
+      {
+        "name": "F. Raimondi",
+        "role": "author",
+        "family": "Raimondi",
+        "given": "F."
+      }
+    ],
+    "year": 2023,
+    "date": "2023",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Nature Communications.",
+    "identifier": {
+      "doi": "10.1038/s41467-023-40045-y",
+      "pmid": "",
+      "url": "https://doi.org/10.1038/s41467-023-40045-y"
+    },
+    "source": {
+      "containerTitle": "Nature Communications",
+      "volume": "14",
+      "issue": "1",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "matic2023gpcrome"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "nature-communications"
+    ]
+  },
+  {
+    "id": "research-support-arora2023expansion",
+    "title": "EXPANSION: a webserver to explore the functional consequences of protein-coding alternative splice variants in cancer genomics",
+    "creator": [
+      {
+        "name": "C. Arora",
+        "role": "author",
+        "family": "Arora",
+        "given": "C."
+      },
+      {
+        "name": "N. De Oliveira Rosa",
+        "role": "author",
+        "family": "De Oliveira Rosa",
+        "given": "N."
+      },
+      {
+        "name": "M. Matic",
+        "role": "author",
+        "family": "Matic",
+        "given": "M."
+      },
+      {
+        "name": "M. Cascone",
+        "role": "author",
+        "family": "Cascone",
+        "given": "M."
+      },
+      {
+        "name": "P. Miglionico",
+        "role": "author",
+        "family": "Miglionico",
+        "given": "P."
+      },
+      {
+        "name": "F. Raimondi",
+        "role": "author",
+        "family": "Raimondi",
+        "given": "F."
+      }
+    ],
+    "year": 2023,
+    "date": "2023",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Bioinformatics Advances.",
+    "identifier": {
+      "doi": "10.1093/bioadv/vbad135",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/bioadv/vbad135"
+    },
+    "source": {
+      "containerTitle": "Bioinformatics Advances",
+      "volume": "3",
+      "issue": "1",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "arora2023expansion"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "bioinformatics-advances"
+    ]
+  },
+  {
+    "id": "research-support-kohandel2023interpreting",
+    "title": "Interpreting ALMA non-detections of JWST super-early galaxies",
+    "creator": [
+      {
+        "name": "M. Kohandel",
+        "role": "author",
+        "family": "Kohandel",
+        "given": "M."
+      },
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "L. Vallini",
+        "role": "author",
+        "family": "Vallini",
+        "given": "L."
+      },
+      {
+        "name": "L. Sommovigo",
+        "role": "author",
+        "family": "Sommovigo",
+        "given": "L."
+      },
+      {
+        "name": "F. Ziparo",
+        "role": "author",
+        "family": "Ziparo",
+        "given": "F."
+      }
+    ],
+    "year": 2023,
+    "date": "2023",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Monthly Notices of the Royal Astronomical Society: Letters.",
+    "identifier": {
+      "doi": "10.1093/mnrasl/slac166",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnrasl/slac166"
+    },
+    "source": {
+      "containerTitle": "Monthly Notices of the Royal Astronomical Society: Letters",
+      "volume": "520",
+      "issue": "1",
+      "pages": "L16-L20",
+      "archive": "",
+      "archiveLocation": "kohandel2023interpreting"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "monthly-notices-of-the-royal-astronomical-society-letters"
+    ]
+  },
+  {
+    "id": "research-support-rizzo2022dynamical",
+    "title": "Dynamical characterization of galaxies up to z ∼7",
+    "creator": [
+      {
+        "name": "F. Rizzo",
+        "role": "author",
+        "family": "Rizzo",
+        "given": "F."
+      },
+      {
+        "name": "M. Kohandel",
+        "role": "author",
+        "family": "Kohandel",
+        "given": "M."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "A. Zanella",
+        "role": "author",
+        "family": "Zanella",
+        "given": "A."
+      },
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      },
+      {
+        "name": "L. Vallini",
+        "role": "author",
+        "family": "Vallini",
+        "given": "L."
+      },
+      {
+        "name": "S. Toft",
+        "role": "author",
+        "family": "Toft",
+        "given": "S."
+      }
+    ],
+    "year": 2022,
+    "date": "2022-11",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Astronomy & Astrophysics.",
+    "identifier": {
+      "doi": "10.1051/0004-6361/202243582",
+      "pmid": "",
+      "url": "https://doi.org/10.1051/0004-6361/202243582"
+    },
+    "source": {
+      "containerTitle": "Astronomy & Astrophysics",
+      "volume": "667",
+      "issue": "",
+      "pages": "A5",
+      "archive": "",
+      "archiveLocation": "rizzo2022dynamical"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "astronomy-astrophysics"
+    ]
+  },
+  {
+    "id": "research-support-nasirudin2022characterizing",
+    "title": "Characterizing Beam Errors for Radio Interferometric Observations of Reionization",
+    "creator": [
+      {
+        "name": "Ainulnabilah Nasirudin",
+        "role": "author",
+        "family": "Nasirudin",
+        "given": "Ainulnabilah"
+      },
+      {
+        "name": "David Prelogovic",
+        "role": "author",
+        "family": "Prelogovic",
+        "given": "David"
+      },
+      {
+        "name": "Steven G. Murray",
+        "role": "author",
+        "family": "Murray",
+        "given": "Steven G."
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      },
+      {
+        "name": "Gianni Bernardi",
+        "role": "author",
+        "family": "Bernardi",
+        "given": "Gianni"
+      }
+    ],
+    "year": 2022,
+    "date": "2022-08",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stac1588",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stac1588"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "514",
+      "issue": "3",
+      "pages": "4655–4668",
+      "archive": "",
+      "archiveLocation": "nasirudin2022characterizing"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-kaur202221",
+    "title": "The 21-cm signal from the cosmic dawn: metallicity dependence of high-mass X-ray binaries",
+    "creator": [
+      {
+        "name": "Harman Deep Kaur",
+        "role": "author",
+        "family": "Kaur",
+        "given": "Harman Deep"
+      },
+      {
+        "name": "Yuxiang Qin",
+        "role": "author",
+        "family": "Qin",
+        "given": "Yuxiang"
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      },
+      {
+        "name": "Andrea Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "Andrea"
+      },
+      {
+        "name": "Tassos Fragos",
+        "role": "author",
+        "family": "Fragos",
+        "given": "Tassos"
+      },
+      {
+        "name": "Antara Basu-Zych",
+        "role": "author",
+        "family": "Basu-Zych",
+        "given": "Antara"
+      }
+    ],
+    "year": 2022,
+    "date": "2022-07",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stac1226",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stac1226"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "513",
+      "issue": "4",
+      "pages": "5097–5108",
+      "archive": "",
+      "archiveLocation": "kaur202221"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-pallottini2022survey",
+    "title": "A survey of high-z galaxies: SERRA simulations",
+    "creator": [
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      },
+      {
+        "name": "S. Gallerani",
+        "role": "author",
+        "family": "Gallerani",
+        "given": "S."
+      },
+      {
+        "name": "C. Behrens",
+        "role": "author",
+        "family": "Behrens",
+        "given": "C."
+      },
+      {
+        "name": "M. Kohandel",
+        "role": "author",
+        "family": "Kohandel",
+        "given": "M."
+      },
+      {
+        "name": "S. Carniani",
+        "role": "author",
+        "family": "Carniani",
+        "given": "S."
+      },
+      {
+        "name": "L. Vallini",
+        "role": "author",
+        "family": "Vallini",
+        "given": "L."
+      },
+      {
+        "name": "S. Salvadori",
+        "role": "author",
+        "family": "Salvadori",
+        "given": "S."
+      },
+      {
+        "name": "V. Gelli",
+        "role": "author",
+        "family": "Gelli",
+        "given": "V."
+      },
+      {
+        "name": "L. Sommovigo",
+        "role": "author",
+        "family": "Sommovigo",
+        "given": "L."
+      },
+      {
+        "name": "V. D'Odorico",
+        "role": "author",
+        "family": "D'Odorico",
+        "given": "V."
+      },
+      {
+        "name": "F. Di Mascia",
+        "role": "author",
+        "family": "Di Mascia",
+        "given": "F."
+      },
+      {
+        "name": "E. Pizzati",
+        "role": "author",
+        "family": "Pizzati",
+        "given": "E."
+      }
+    ],
+    "year": 2022,
+    "date": "2022-07",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stac1281",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stac1281"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "513",
+      "issue": "4",
+      "pages": "5621–5641",
+      "archive": "",
+      "archiveLocation": "pallottini2022survey"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-ferrara2022alma",
+    "title": "The ALMA REBELS Survey. Epoch of Reionization giants: Properties of dusty galaxies at z ≍ 7",
+    "creator": [
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      },
+      {
+        "name": "L. Sommovigo",
+        "role": "author",
+        "family": "Sommovigo",
+        "given": "L."
+      },
+      {
+        "name": "P. Dayal",
+        "role": "author",
+        "family": "Dayal",
+        "given": "P."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "R. J. Bouwens",
+        "role": "author",
+        "family": "Bouwens",
+        "given": "R. J."
+      },
+      {
+        "name": "V. Gonzalez",
+        "role": "author",
+        "family": "Gonzalez",
+        "given": "V."
+      },
+      {
+        "name": "H. Inami",
+        "role": "author",
+        "family": "Inami",
+        "given": "H."
+      },
+      {
+        "name": "R. Smit",
+        "role": "author",
+        "family": "Smit",
+        "given": "R."
+      },
+      {
+        "name": "R. A. A. Bowler",
+        "role": "author",
+        "family": "Bowler",
+        "given": "R. A. A."
+      },
+      {
+        "name": "R. Endsley",
+        "role": "author",
+        "family": "Endsley",
+        "given": "R."
+      },
+      {
+        "name": "P. Oesch",
+        "role": "author",
+        "family": "Oesch",
+        "given": "P."
+      },
+      {
+        "name": "S. Schouws",
+        "role": "author",
+        "family": "Schouws",
+        "given": "S."
+      },
+      {
+        "name": "D. Stark",
+        "role": "author",
+        "family": "Stark",
+        "given": "D."
+      },
+      {
+        "name": "M. Stefanon",
+        "role": "author",
+        "family": "Stefanon",
+        "given": "M."
+      },
+      {
+        "name": "M. Aravena",
+        "role": "author",
+        "family": "Aravena",
+        "given": "M."
+      },
+      {
+        "name": "E. da Cunha",
+        "role": "author",
+        "family": "da Cunha",
+        "given": "E."
+      },
+      {
+        "name": "I. De Looze",
+        "role": "author",
+        "family": "De Looze",
+        "given": "I."
+      },
+      {
+        "name": "Y. Fudamoto",
+        "role": "author",
+        "family": "Fudamoto",
+        "given": "Y."
+      },
+      {
+        "name": "L. Graziani",
+        "role": "author",
+        "family": "Graziani",
+        "given": "L."
+      },
+      {
+        "name": "J. Hodge",
+        "role": "author",
+        "family": "Hodge",
+        "given": "J."
+      },
+      {
+        "name": "D. Riechers",
+        "role": "author",
+        "family": "Riechers",
+        "given": "D."
+      },
+      {
+        "name": "R. Schneider",
+        "role": "author",
+        "family": "Schneider",
+        "given": "R."
+      },
+      {
+        "name": "H. S. B. Algera",
+        "role": "author",
+        "family": "Algera",
+        "given": "H. S. B."
+      },
+      {
+        "name": "L. Barrufet",
+        "role": "author",
+        "family": "Barrufet",
+        "given": "L."
+      },
+      {
+        "name": "A. P. S. Hygate",
+        "role": "author",
+        "family": "Hygate",
+        "given": "A. P. S."
+      },
+      {
+        "name": "I. Labbé",
+        "role": "author",
+        "family": "Labbé",
+        "given": "I."
+      },
+      {
+        "name": "C. Li",
+        "role": "author",
+        "family": "Li",
+        "given": "C."
+      },
+      {
+        "name": "T. Nanayakkara",
+        "role": "author",
+        "family": "Nanayakkara",
+        "given": "T."
+      },
+      {
+        "name": "M. Topping",
+        "role": "author",
+        "family": "Topping",
+        "given": "M."
+      },
+      {
+        "name": "P. van der Werf",
+        "role": "author",
+        "family": "van der Werf",
+        "given": "P."
+      }
+    ],
+    "year": 2022,
+    "date": "2022-05",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stac460",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stac460"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "512",
+      "issue": "1",
+      "pages": "58–72",
+      "archive": "",
+      "archiveLocation": "ferrara2022alma"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-munoz2022impact",
+    "title": "The impact of the first galaxies on cosmic dawn and reionization",
+    "creator": [
+      {
+        "name": "Julian B. Muñoz",
+        "role": "author",
+        "family": "Muñoz",
+        "given": "Julian B."
+      },
+      {
+        "name": "Yuxiang Qin",
+        "role": "author",
+        "family": "Qin",
+        "given": "Yuxiang"
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      },
+      {
+        "name": "Steven G. Murray",
+        "role": "author",
+        "family": "Murray",
+        "given": "Steven G."
+      },
+      {
+        "name": "Bradley Greig",
+        "role": "author",
+        "family": "Greig",
+        "given": "Bradley"
+      },
+      {
+        "name": "Charlotte Mason",
+        "role": "author",
+        "family": "Mason",
+        "given": "Charlotte"
+      }
+    ],
+    "year": 2022,
+    "date": "2022-04",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stac185",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stac185"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "511",
+      "issue": "3",
+      "pages": "3657–3681",
+      "archive": "",
+      "archiveLocation": "munoz2022impact"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-zana2022enhanced",
+    "title": "Enhanced star formation in z 6 quasar companions",
+    "creator": [
+      {
+        "name": "Tommaso Zana",
+        "role": "author",
+        "family": "Zana",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Simona Gallerani",
+        "role": "author",
+        "family": "Gallerani",
+        "given": "Simona"
+      },
+      {
+        "name": "Stefano Carniani",
+        "role": "author",
+        "family": "Carniani",
+        "given": "Stefano"
+      },
+      {
+        "name": "Fabio Vito",
+        "role": "author",
+        "family": "Vito",
+        "given": "Fabio"
+      },
+      {
+        "name": "Andrea Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "Andrea"
+      },
+      {
+        "name": "Alessandro Lupi",
+        "role": "author",
+        "family": "Lupi",
+        "given": "Alessandro"
+      },
+      {
+        "name": "Fabio Di Mascia",
+        "role": "author",
+        "family": "Di Mascia",
+        "given": "Fabio"
+      },
+      {
+        "name": "Paramita Barai",
+        "role": "author",
+        "family": "Barai",
+        "given": "Paramita"
+      }
+    ],
+    "year": 2022,
+    "date": "2022-04",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stac978",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stac978"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "zana2022enhanced"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-watkinson2022epoch",
+    "title": "Epoch of reionization parameter estimation with the 21-cm bispectrum",
+    "creator": [
+      {
+        "name": "Catherine A. Watkinson",
+        "role": "author",
+        "family": "Watkinson",
+        "given": "Catherine A."
+      },
+      {
+        "name": "Bradley Greig",
+        "role": "author",
+        "family": "Greig",
+        "given": "Bradley"
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      }
+    ],
+    "year": 2022,
+    "date": "2022-03",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stab3706",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stab3706"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "510",
+      "issue": "3",
+      "pages": "3838–3848",
+      "archive": "",
+      "archiveLocation": "watkinson2022epoch"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-skeidsvoll2022simulating",
+    "title": "Simulating weak-field attosecond processes with a lanczos reduced basis approach to time-dependent equation-of-motion coupled-cluster theory",
+    "creator": [
+      {
+        "name": "Andreas S. Skeidsvoll",
+        "role": "author",
+        "family": "Skeidsvoll",
+        "given": "Andreas S."
+      },
+      {
+        "name": "Torsha Moitra",
+        "role": "author",
+        "family": "Moitra",
+        "given": "Torsha"
+      },
+      {
+        "name": "Alice Balbi",
+        "role": "author",
+        "family": "Balbi",
+        "given": "Alice"
+      },
+      {
+        "name": "Alexander C. Paul",
+        "role": "author",
+        "family": "Paul",
+        "given": "Alexander C."
+      },
+      {
+        "name": "Sonia Coriani",
+        "role": "author",
+        "family": "Coriani",
+        "given": "Sonia"
+      },
+      {
+        "name": "Henrik Koch",
+        "role": "author",
+        "family": "Koch",
+        "given": "Henrik"
+      }
+    ],
+    "year": 2022,
+    "date": "2022-02",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Phys. Rev. A.",
+    "identifier": {
+      "doi": "10.1103/PhysRevA.105.023103",
+      "pmid": "",
+      "url": "https://doi.org/10.1103/PhysRevA.105.023103"
+    },
+    "source": {
+      "containerTitle": "Phys. Rev. A",
+      "volume": "105",
+      "issue": "",
+      "pages": "023103",
+      "archive": "",
+      "archiveLocation": "skeidsvoll2022simulating"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "phys-rev-a"
+    ]
+  },
+  {
+    "id": "research-support-sommovigo2022rebels",
+    "title": "The REBELS ALMA Survey: cosmic dust temperature evolution out to z 7",
+    "creator": [
+      {
+        "name": "L. Sommovigo",
+        "role": "author",
+        "family": "Sommovigo",
+        "given": "L."
+      },
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "P. Dayal",
+        "role": "author",
+        "family": "Dayal",
+        "given": "P."
+      },
+      {
+        "name": "R. J. Bouwens",
+        "role": "author",
+        "family": "Bouwens",
+        "given": "R. J."
+      },
+      {
+        "name": "R. Smit",
+        "role": "author",
+        "family": "Smit",
+        "given": "R."
+      },
+      {
+        "name": "E. da Cunha",
+        "role": "author",
+        "family": "da Cunha",
+        "given": "E."
+      },
+      {
+        "name": "I. De Looze",
+        "role": "author",
+        "family": "De Looze",
+        "given": "I."
+      },
+      {
+        "name": "R. A. A. Bowler",
+        "role": "author",
+        "family": "Bowler",
+        "given": "R. A. A."
+      },
+      {
+        "name": "J. Hodge",
+        "role": "author",
+        "family": "Hodge",
+        "given": "J."
+      },
+      {
+        "name": "H. Inami",
+        "role": "author",
+        "family": "Inami",
+        "given": "H."
+      },
+      {
+        "name": "P. Oesch",
+        "role": "author",
+        "family": "Oesch",
+        "given": "P."
+      },
+      {
+        "name": "R. Endsley",
+        "role": "author",
+        "family": "Endsley",
+        "given": "R."
+      },
+      {
+        "name": "V. Gonzalez",
+        "role": "author",
+        "family": "Gonzalez",
+        "given": "V."
+      },
+      {
+        "name": "S. Schouws",
+        "role": "author",
+        "family": "Schouws",
+        "given": "S."
+      },
+      {
+        "name": "D. Stark",
+        "role": "author",
+        "family": "Stark",
+        "given": "D."
+      },
+      {
+        "name": "M. Stefanon",
+        "role": "author",
+        "family": "Stefanon",
+        "given": "M."
+      },
+      {
+        "name": "M. Aravena",
+        "role": "author",
+        "family": "Aravena",
+        "given": "M."
+      },
+      {
+        "name": "L. Graziani",
+        "role": "author",
+        "family": "Graziani",
+        "given": "L."
+      },
+      {
+        "name": "D. Riechers",
+        "role": "author",
+        "family": "Riechers",
+        "given": "D."
+      },
+      {
+        "name": "R. Schneider",
+        "role": "author",
+        "family": "Schneider",
+        "given": "R."
+      },
+      {
+        "name": "P. van der Werf",
+        "role": "author",
+        "family": "van der Werf",
+        "given": "P."
+      },
+      {
+        "name": "H. Algera",
+        "role": "author",
+        "family": "Algera",
+        "given": "H."
+      },
+      {
+        "name": "L. Barrufet",
+        "role": "author",
+        "family": "Barrufet",
+        "given": "L."
+      },
+      {
+        "name": "Y. Fudamoto",
+        "role": "author",
+        "family": "Fudamoto",
+        "given": "Y."
+      },
+      {
+        "name": "A. P. S. Hygate",
+        "role": "author",
+        "family": "Hygate",
+        "given": "A. P. S."
+      },
+      {
+        "name": "I. Labbé",
+        "role": "author",
+        "family": "Labbé",
+        "given": "I."
+      },
+      {
+        "name": "Y. Li",
+        "role": "author",
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "name": "T. Nanayakkara",
+        "role": "author",
+        "family": "Nanayakkara",
+        "given": "T."
+      },
+      {
+        "name": "M. Topping",
+        "role": "author",
+        "family": "Topping",
+        "given": "M."
+      }
+    ],
+    "year": 2022,
+    "date": "2022-02",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stac302",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stac302"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "sommovigo2022rebels"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-prelogovic2022machine",
+    "title": "Machine learning astrophysics from 21 cm lightcones: impact of network architectures and signal contamination",
+    "creator": [
+      {
+        "name": "David Prelogović",
+        "role": "author",
+        "family": "Prelogović",
+        "given": "David"
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      },
+      {
+        "name": "Steven Murray",
+        "role": "author",
+        "family": "Murray",
+        "given": "Steven"
+      },
+      {
+        "name": "Giuseppe Fiameni",
+        "role": "author",
+        "family": "Fiameni",
+        "given": "Giuseppe"
+      },
+      {
+        "name": "Nicolas Gillet",
+        "role": "author",
+        "family": "Gillet",
+        "given": "Nicolas"
+      }
+    ],
+    "year": 2022,
+    "date": "2022-01",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stab3215",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stab3215"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "509",
+      "issue": "3",
+      "pages": "3852–3867",
+      "archive": "",
+      "archiveLocation": "prelogovic2022machine"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-theheracollaboration2022hera",
+    "title": "HERA Phase I Limits on the Cosmic 21-cm Signal: Constraints on Astrophysics and Cosmology During the Epoch of Reionization",
+    "creator": [
+      {
+        "name": "The HERA Collaboration",
+        "role": "author",
+        "family": "Collaboration",
+        "given": "The HERA"
+      },
+      {
+        "name": "Zara Abdurashidova",
+        "role": "author",
+        "family": "Abdurashidova",
+        "given": "Zara"
+      },
+      {
+        "name": "James E. Aguirre",
+        "role": "author",
+        "family": "Aguirre",
+        "given": "James E."
+      },
+      {
+        "name": "Paul Alexander",
+        "role": "author",
+        "family": "Alexander",
+        "given": "Paul"
+      },
+      {
+        "name": "Zaki Ali",
+        "role": "author",
+        "family": "Ali",
+        "given": "Zaki"
+      },
+      {
+        "name": "Yanga Balfour",
+        "role": "author",
+        "family": "Balfour",
+        "given": "Yanga"
+      },
+      {
+        "name": "Rennan Barkana",
+        "role": "author",
+        "family": "Barkana",
+        "given": "Rennan"
+      },
+      {
+        "name": "Adam Beardsley",
+        "role": "author",
+        "family": "Beardsley",
+        "given": "Adam"
+      },
+      {
+        "name": "Gianni Bernardi",
+        "role": "author",
+        "family": "Bernardi",
+        "given": "Gianni"
+      },
+      {
+        "name": "Tashalee Billings",
+        "role": "author",
+        "family": "Billings",
+        "given": "Tashalee"
+      },
+      {
+        "name": "Judd Bowman",
+        "role": "author",
+        "family": "Bowman",
+        "given": "Judd"
+      },
+      {
+        "name": "Richard Bradley",
+        "role": "author",
+        "family": "Bradley",
+        "given": "Richard"
+      },
+      {
+        "name": "Phillip Bull",
+        "role": "author",
+        "family": "Bull",
+        "given": "Phillip"
+      },
+      {
+        "name": "Jacob Burba",
+        "role": "author",
+        "family": "Burba",
+        "given": "Jacob"
+      },
+      {
+        "name": "Steven Carey",
+        "role": "author",
+        "family": "Carey",
+        "given": "Steven"
+      },
+      {
+        "name": "Christopher Carilli",
+        "role": "author",
+        "family": "Carilli",
+        "given": "Christopher"
+      },
+      {
+        "name": "Carina Cheng",
+        "role": "author",
+        "family": "Cheng",
+        "given": "Carina"
+      },
+      {
+        "name": "David DeBoer",
+        "role": "author",
+        "family": "DeBoer",
+        "given": "David"
+      },
+      {
+        "name": "Matthew Dexter",
+        "role": "author",
+        "family": "Dexter",
+        "given": "Matthew"
+      },
+      {
+        "name": "Eloy de Lera Acedo",
+        "role": "author",
+        "family": "Acedo",
+        "given": "Eloy de Lera"
+      },
+      {
+        "name": "Joshua Dillon",
+        "role": "author",
+        "family": "Dillon",
+        "given": "Joshua"
+      },
+      {
+        "name": "John Ely",
+        "role": "author",
+        "family": "Ely",
+        "given": "John"
+      },
+      {
+        "name": "Aaron Ewall-Wice",
+        "role": "author",
+        "family": "Ewall-Wice",
+        "given": "Aaron"
+      },
+      {
+        "name": "Nicolas Fagnoni",
+        "role": "author",
+        "family": "Fagnoni",
+        "given": "Nicolas"
+      },
+      {
+        "name": "Anastasia Fialkov",
+        "role": "author",
+        "family": "Fialkov",
+        "given": "Anastasia"
+      },
+      {
+        "name": "Randall Fritz",
+        "role": "author",
+        "family": "Fritz",
+        "given": "Randall"
+      },
+      {
+        "name": "Steven Furlanetto",
+        "role": "author",
+        "family": "Furlanetto",
+        "given": "Steven"
+      },
+      {
+        "name": "Kingsley Gale-Sides",
+        "role": "author",
+        "family": "Gale-Sides",
+        "given": "Kingsley"
+      },
+      {
+        "name": "Brian Glendenning",
+        "role": "author",
+        "family": "Glendenning",
+        "given": "Brian"
+      },
+      {
+        "name": "Deepthi Gorthi",
+        "role": "author",
+        "family": "Gorthi",
+        "given": "Deepthi"
+      },
+      {
+        "name": "Bradley Greig",
+        "role": "author",
+        "family": "Greig",
+        "given": "Bradley"
+      },
+      {
+        "name": "Jasper Grobbelaar",
+        "role": "author",
+        "family": "Grobbelaar",
+        "given": "Jasper"
+      },
+      {
+        "name": "Ziyaad Halday",
+        "role": "author",
+        "family": "Halday",
+        "given": "Ziyaad"
+      },
+      {
+        "name": "Bryna Hazelton",
+        "role": "author",
+        "family": "Hazelton",
+        "given": "Bryna"
+      },
+      {
+        "name": "Stefan Heimersheim",
+        "role": "author",
+        "family": "Heimersheim",
+        "given": "Stefan"
+      },
+      {
+        "name": "Jacqueline Hewitt",
+        "role": "author",
+        "family": "Hewitt",
+        "given": "Jacqueline"
+      },
+      {
+        "name": "Jack Hickish",
+        "role": "author",
+        "family": "Hickish",
+        "given": "Jack"
+      },
+      {
+        "name": "Daniel Jacobs",
+        "role": "author",
+        "family": "Jacobs",
+        "given": "Daniel"
+      },
+      {
+        "name": "Austin Julius",
+        "role": "author",
+        "family": "Julius",
+        "given": "Austin"
+      },
+      {
+        "name": "Nicholas Kern",
+        "role": "author",
+        "family": "Kern",
+        "given": "Nicholas"
+      },
+      {
+        "name": "Joshua Kerrigan",
+        "role": "author",
+        "family": "Kerrigan",
+        "given": "Joshua"
+      },
+      {
+        "name": "Piyanat Kittiwisit",
+        "role": "author",
+        "family": "Kittiwisit",
+        "given": "Piyanat"
+      },
+      {
+        "name": "Saul Kohn",
+        "role": "author",
+        "family": "Kohn",
+        "given": "Saul"
+      },
+      {
+        "name": "Matthew Kolopanis",
+        "role": "author",
+        "family": "Kolopanis",
+        "given": "Matthew"
+      },
+      {
+        "name": "Adam Lanman",
+        "role": "author",
+        "family": "Lanman",
+        "given": "Adam"
+      },
+      {
+        "name": "Paul La Plante",
+        "role": "author",
+        "family": "Plante",
+        "given": "Paul La"
+      },
+      {
+        "name": "Telalo Lekalake",
+        "role": "author",
+        "family": "Lekalake",
+        "given": "Telalo"
+      },
+      {
+        "name": "David Lewis",
+        "role": "author",
+        "family": "Lewis",
+        "given": "David"
+      },
+      {
+        "name": "Adrian Liu",
+        "role": "author",
+        "family": "Liu",
+        "given": "Adrian"
+      },
+      {
+        "name": "Yin-Zhe Ma",
+        "role": "author",
+        "family": "Ma",
+        "given": "Yin-Zhe"
+      },
+      {
+        "name": "David MacMahon",
+        "role": "author",
+        "family": "MacMahon",
+        "given": "David"
+      },
+      {
+        "name": "Lourence Malan",
+        "role": "author",
+        "family": "Malan",
+        "given": "Lourence"
+      },
+      {
+        "name": "Cresshim Malgas",
+        "role": "author",
+        "family": "Malgas",
+        "given": "Cresshim"
+      },
+      {
+        "name": "Matthys Maree",
+        "role": "author",
+        "family": "Maree",
+        "given": "Matthys"
+      },
+      {
+        "name": "Zachary Martinot",
+        "role": "author",
+        "family": "Martinot",
+        "given": "Zachary"
+      },
+      {
+        "name": "Eunice Matsetela",
+        "role": "author",
+        "family": "Matsetela",
+        "given": "Eunice"
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      },
+      {
+        "name": "Jordan Mirocha",
+        "role": "author",
+        "family": "Mirocha",
+        "given": "Jordan"
+      },
+      {
+        "name": "Mathakane Molewa",
+        "role": "author",
+        "family": "Molewa",
+        "given": "Mathakane"
+      },
+      {
+        "name": "Miguel Morales",
+        "role": "author",
+        "family": "Morales",
+        "given": "Miguel"
+      },
+      {
+        "name": "Tshegofalang Mosiane",
+        "role": "author",
+        "family": "Mosiane",
+        "given": "Tshegofalang"
+      },
+      {
+        "name": "Julian Munoz",
+        "role": "author",
+        "family": "Munoz",
+        "given": "Julian"
+      },
+      {
+        "name": "Steven Murray",
+        "role": "author",
+        "family": "Murray",
+        "given": "Steven"
+      },
+      {
+        "name": "Abraham Neben",
+        "role": "author",
+        "family": "Neben",
+        "given": "Abraham"
+      },
+      {
+        "name": "Bojan Nikolic",
+        "role": "author",
+        "family": "Nikolic",
+        "given": "Bojan"
+      },
+      {
+        "name": "Chuneeta Devi Nunhokee",
+        "role": "author",
+        "family": "Nunhokee",
+        "given": "Chuneeta Devi"
+      },
+      {
+        "name": "Aaron Parsons",
+        "role": "author",
+        "family": "Parsons",
+        "given": "Aaron"
+      },
+      {
+        "name": "Nipanjana Patra",
+        "role": "author",
+        "family": "Patra",
+        "given": "Nipanjana"
+      },
+      {
+        "name": "Samantha Pieterse",
+        "role": "author",
+        "family": "Pieterse",
+        "given": "Samantha"
+      },
+      {
+        "name": "Jonathan Pober",
+        "role": "author",
+        "family": "Pober",
+        "given": "Jonathan"
+      },
+      {
+        "name": "Yuxiang Qin",
+        "role": "author",
+        "family": "Qin",
+        "given": "Yuxiang"
+      },
+      {
+        "name": "N. Razavi-Ghods",
+        "role": "author",
+        "family": "Razavi-Ghods",
+        "given": "N."
+      },
+      {
+        "name": "Itamar Reis",
+        "role": "author",
+        "family": "Reis",
+        "given": "Itamar"
+      },
+      {
+        "name": "Jon Ringuette",
+        "role": "author",
+        "family": "Ringuette",
+        "given": "Jon"
+      },
+      {
+        "name": "James Robnett",
+        "role": "author",
+        "family": "Robnett",
+        "given": "James"
+      },
+      {
+        "name": "Kathryn Rosie",
+        "role": "author",
+        "family": "Rosie",
+        "given": "Kathryn"
+      },
+      {
+        "name": "Mario Santos",
+        "role": "author",
+        "family": "Santos",
+        "given": "Mario"
+      },
+      {
+        "name": "Sudipta Sikder",
+        "role": "author",
+        "family": "Sikder",
+        "given": "Sudipta"
+      },
+      {
+        "name": "Peter Sims",
+        "role": "author",
+        "family": "Sims",
+        "given": "Peter"
+      },
+      {
+        "name": "Craig Smith",
+        "role": "author",
+        "family": "Smith",
+        "given": "Craig"
+      },
+      {
+        "name": "Angelo Syce",
+        "role": "author",
+        "family": "Syce",
+        "given": "Angelo"
+      },
+      {
+        "name": "Nithyanandan Thyagarajan",
+        "role": "author",
+        "family": "Thyagarajan",
+        "given": "Nithyanandan"
+      },
+      {
+        "name": "Peter Williams",
+        "role": "author",
+        "family": "Williams",
+        "given": "Peter"
+      },
+      {
+        "name": "Haoxuan Zheng",
+        "role": "author",
+        "family": "Zheng",
+        "given": "Haoxuan"
+      }
+    ],
+    "year": 2022,
+    "date": "2022-01",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in The Astrophysical Journal.",
+    "identifier": {
+      "doi": "10.3847/1538-4357/ac2ffc",
+      "pmid": "",
+      "url": "https://doi.org/10.3847/1538-4357/ac2ffc"
+    },
+    "source": {
+      "containerTitle": "The Astrophysical Journal",
+      "volume": "924",
+      "issue": "2",
+      "pages": "51",
+      "archive": "",
+      "archiveLocation": "theheracollaboration2022hera"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "the-astrophysical-journal"
+    ]
+  },
+  {
+    "id": "research-support-markov2022interstellar",
+    "title": "The interstellar medium of high-redshift galaxies: Gathering clues from C III] and [C II] lines",
+    "creator": [
+      {
+        "name": "V. Markov",
+        "role": "author",
+        "family": "Markov",
+        "given": "V."
+      },
+      {
+        "name": "S. Carniani",
+        "role": "author",
+        "family": "Carniani",
+        "given": "S."
+      },
+      {
+        "name": "L. Vallini",
+        "role": "author",
+        "family": "Vallini",
+        "given": "L."
+      },
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "R. Maiolino",
+        "role": "author",
+        "family": "Maiolino",
+        "given": "R."
+      },
+      {
+        "name": "S. Gallerani",
+        "role": "author",
+        "family": "Gallerani",
+        "given": "S."
+      },
+      {
+        "name": "L. Pentericci",
+        "role": "author",
+        "family": "Pentericci",
+        "given": "L."
+      }
+    ],
+    "year": 2022,
+    "date": "2022",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Astronomy & Astrophysics.",
+    "identifier": {
+      "doi": "10.1051/0004-6361/202243336",
+      "pmid": "",
+      "url": "https://doi.org/10.1051/0004-6361/202243336"
+    },
+    "source": {
+      "containerTitle": "Astronomy & Astrophysics",
+      "volume": "663",
+      "issue": "",
+      "pages": "A172",
+      "archive": "",
+      "archiveLocation": "markov2022interstellar"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "astronomy-astrophysics"
+    ]
+  },
+  {
+    "id": "research-support-onoja2022explainable",
+    "title": "An explainable model of host genetic interactions linked to COVID-19 severity",
+    "creator": [
+      {
+        "name": "A. Onoja",
+        "role": "author",
+        "family": "Onoja",
+        "given": "A."
+      },
+      {
+        "name": "N. Picchiotti",
+        "role": "author",
+        "family": "Picchiotti",
+        "given": "N."
+      },
+      {
+        "name": "C. Fallerini",
+        "role": "author",
+        "family": "Fallerini",
+        "given": "C."
+      },
+      {
+        "name": "M. Baldassarri",
+        "role": "author",
+        "family": "Baldassarri",
+        "given": "M."
+      },
+      {
+        "name": "F. Fava",
+        "role": "author",
+        "family": "Fava",
+        "given": "F."
+      },
+      {
+        "name": "F. Colombo",
+        "role": "author",
+        "family": "Colombo",
+        "given": "F."
+      },
+      {
+        "name": "F. Chiaromonte",
+        "role": "author",
+        "family": "Chiaromonte",
+        "given": "F."
+      },
+      {
+        "name": "A. Renieri",
+        "role": "author",
+        "family": "Renieri",
+        "given": "A."
+      },
+      {
+        "name": "S. Furini",
+        "role": "author",
+        "family": "Furini",
+        "given": "S."
+      },
+      {
+        "name": "F. Raimondi",
+        "role": "author",
+        "family": "Raimondi",
+        "given": "F."
+      }
+    ],
+    "year": 2022,
+    "date": "2022",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Communications Biology.",
+    "identifier": {
+      "doi": "10.1038/s42003-022-04073-6",
+      "pmid": "",
+      "url": "https://doi.org/10.1038/s42003-022-04073-6"
+    },
+    "source": {
+      "containerTitle": "Communications Biology",
+      "volume": "5",
+      "issue": "",
+      "pages": "1133",
+      "archive": "",
+      "archiveLocation": "onoja2022explainable"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "communications-biology"
+    ]
+  },
+  {
+    "id": "research-support-sagresti2022stochastic",
+    "title": "Stochastic model of solvent exchange in the first coordination shell of aqua ions",
+    "creator": [
+      {
+        "name": "Luca Sagresti",
+        "role": "author",
+        "family": "Sagresti",
+        "given": "Luca"
+      },
+      {
+        "name": "Lorenzo Peri",
+        "role": "author",
+        "family": "Peri",
+        "given": "Lorenzo"
+      },
+      {
+        "name": "Giacomo Ceccarelli",
+        "role": "author",
+        "family": "Ceccarelli",
+        "given": "Giacomo"
+      },
+      {
+        "name": "Giuseppe Brancato",
+        "role": "author",
+        "family": "Brancato",
+        "given": "Giuseppe"
+      }
+    ],
+    "year": 2022,
+    "date": "2022",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Journal of Chemical Theory and Computation.",
+    "identifier": {
+      "doi": "10.1021/acs.jctc.2c00181",
+      "pmid": "35471007",
+      "url": "https://doi.org/10.1021/acs.jctc.2c00181"
+    },
+    "source": {
+      "containerTitle": "Journal of Chemical Theory and Computation",
+      "volume": "18",
+      "issue": "5",
+      "pages": "3164–3173",
+      "archive": "",
+      "archiveLocation": "sagresti2022stochastic"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "journal-of-chemical-theory-and-computation"
+    ]
+  },
+  {
+    "id": "research-support-gomez2022unlocking",
+    "title": "Unlocking the power of resonance raman spectroscopy: The case of amides in aqueous solution",
+    "creator": [
+      {
+        "name": "Sara Gómez",
+        "role": "author",
+        "family": "Gómez",
+        "given": "Sara"
+      },
+      {
+        "name": "Franco Egidi",
+        "role": "author",
+        "family": "Egidi",
+        "given": "Franco"
+      },
+      {
+        "name": "Alessandra Puglisi",
+        "role": "author",
+        "family": "Puglisi",
+        "given": "Alessandra"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Barbara Rossi",
+        "role": "author",
+        "family": "Rossi",
+        "given": "Barbara"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2022,
+    "date": "2022",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Journal of Molecular Liquids.",
+    "identifier": {
+      "doi": "10.1016/j.molliq.2021.117841",
+      "pmid": "",
+      "url": "https://doi.org/10.1016/j.molliq.2021.117841"
+    },
+    "source": {
+      "containerTitle": "Journal of Molecular Liquids",
+      "volume": "346",
+      "issue": "",
+      "pages": "117841",
+      "archive": "",
+      "archiveLocation": "gomez2022unlocking"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "journal-of-molecular-liquids"
+    ]
+  },
+  {
+    "id": "research-support-gomez2022ring",
+    "title": "Ring vibrations to sense anionic ibuprofen in aqueous solution as revealed by resonance raman",
+    "creator": [
+      {
+        "name": "Sara Gómez",
+        "role": "author",
+        "family": "Gómez",
+        "given": "Sara"
+      },
+      {
+        "name": "Natalia Rojas-Valencia",
+        "role": "author",
+        "family": "Rojas-Valencia",
+        "given": "Natalia"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Albeiro Restrepo",
+        "role": "author",
+        "family": "Restrepo",
+        "given": "Albeiro"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2022,
+    "date": "2022",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Molecules.",
+    "identifier": {
+      "doi": "10.3390/molecules27020442",
+      "pmid": "",
+      "url": "https://doi.org/10.3390/molecules27020442"
+    },
+    "source": {
+      "containerTitle": "Molecules",
+      "volume": "27",
+      "issue": "2",
+      "pages": "442",
+      "archive": "",
+      "archiveLocation": "gomez2022ring"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "molecules"
+    ]
+  },
+  {
+    "id": "research-support-lafiosca2022absorption",
+    "title": "Absorption properties of large complex molecular systems: The dftb/fluctuating charge approach",
+    "creator": [
+      {
+        "name": "Piero Lafiosca",
+        "role": "author",
+        "family": "Lafiosca",
+        "given": "Piero"
+      },
+      {
+        "name": "Sara Gómez",
+        "role": "author",
+        "family": "Gómez",
+        "given": "Sara"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2022,
+    "date": "2022",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Journal of chemical theory and computation.",
+    "identifier": {
+      "doi": "10.1021/acs.jctc.1c01066",
+      "pmid": "",
+      "url": "https://doi.org/10.1021/acs.jctc.1c01066"
+    },
+    "source": {
+      "containerTitle": "Journal of chemical theory and computation",
+      "volume": "18",
+      "issue": "3",
+      "pages": "1765–1779",
+      "archive": "",
+      "archiveLocation": "lafiosca2022absorption"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "journal-of-chemical-theory-and-computation"
+    ]
+  },
+  {
+    "id": "research-support-bonatti2022silico",
+    "title": "In-silico design of graphene plasmonic hot-spots",
+    "creator": [
+      {
+        "name": "Luca Bonatti",
+        "role": "author",
+        "family": "Bonatti",
+        "given": "Luca"
+      },
+      {
+        "name": "Luca Nicoli",
+        "role": "author",
+        "family": "Nicoli",
+        "given": "Luca"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2022,
+    "date": "2022",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Nanoscale Advances.",
+    "identifier": {
+      "doi": "10.1039/D2NA00088A",
+      "pmid": "",
+      "url": "https://doi.org/10.1039/D2NA00088A"
+    },
+    "source": {
+      "containerTitle": "Nanoscale Advances",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "bonatti2022silico"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "nanoscale-advances"
+    ]
+  },
+  {
+    "id": "research-support-qin2021reionization",
+    "title": "Reionization and galaxy inference from the high-redshift Ly α forest",
+    "creator": [
+      {
+        "name": "Yuxiang Qin",
+        "role": "author",
+        "family": "Qin",
+        "given": "Yuxiang"
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      },
+      {
+        "name": "Sarah E. I. Bosman",
+        "role": "author",
+        "family": "Bosman",
+        "given": "Sarah E. I."
+      },
+      {
+        "name": "Matteo Viel",
+        "role": "author",
+        "family": "Viel",
+        "given": "Matteo"
+      }
+    ],
+    "year": 2021,
+    "date": "2021-09",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stab1833",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stab1833"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "506",
+      "issue": "2",
+      "pages": "2390–2407",
+      "archive": "",
+      "archiveLocation": "qin2021reionization"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-dimascia2021dust",
+    "title": "The dust attenuation law in z 6 quasars",
+    "creator": [
+      {
+        "name": "F. Di Mascia",
+        "role": "author",
+        "family": "Di Mascia",
+        "given": "F."
+      },
+      {
+        "name": "S. Gallerani",
+        "role": "author",
+        "family": "Gallerani",
+        "given": "S."
+      },
+      {
+        "name": "A. Ferrara",
+        "role": "author",
+        "family": "Ferrara",
+        "given": "A."
+      },
+      {
+        "name": "A. Pallottini",
+        "role": "author",
+        "family": "Pallottini",
+        "given": "A."
+      },
+      {
+        "name": "R. Maiolino",
+        "role": "author",
+        "family": "Maiolino",
+        "given": "R."
+      },
+      {
+        "name": "S. Carniani",
+        "role": "author",
+        "family": "Carniani",
+        "given": "S."
+      },
+      {
+        "name": "V. D'Odorico",
+        "role": "author",
+        "family": "D'Odorico",
+        "given": "V."
+      }
+    ],
+    "year": 2021,
+    "date": "2021-09",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/stab1876",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/stab1876"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "506",
+      "issue": "3",
+      "pages": "3946–3961",
+      "archive": "",
+      "archiveLocation": "dimascia2021dust"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-leon2021looking",
+    "title": "Looking for the elusive imine tautomer of creatinine: Different states of aggregation studied by quantum chemistry and molecular spectroscopy",
+    "creator": [
+      {
+        "name": "Iker Léon",
+        "role": "author",
+        "family": "Léon",
+        "given": "Iker"
+      },
+      {
+        "name": "Nicola Tasinato",
+        "role": "author",
+        "family": "Tasinato",
+        "given": "Nicola"
+      },
+      {
+        "name": "Lorenzo Spada",
+        "role": "author",
+        "family": "Spada",
+        "given": "Lorenzo"
+      },
+      {
+        "name": "Elena R. Alonso",
+        "role": "author",
+        "family": "Alonso",
+        "given": "Elena R."
+      },
+      {
+        "name": "Santiago Mata",
+        "role": "author",
+        "family": "Mata",
+        "given": "Santiago"
+      },
+      {
+        "name": "Alice Balbi",
+        "role": "author",
+        "family": "Balbi",
+        "given": "Alice"
+      },
+      {
+        "name": "Cristina Puzzarini",
+        "role": "author",
+        "family": "Puzzarini",
+        "given": "Cristina"
+      },
+      {
+        "name": "Jose L. Alonso",
+        "role": "author",
+        "family": "Alonso",
+        "given": "Jose L."
+      },
+      {
+        "name": "Vincenzo Barone",
+        "role": "author",
+        "family": "Barone",
+        "given": "Vincenzo"
+      }
+    ],
+    "year": 2021,
+    "date": "2021-06",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in ChemPlusChem.",
+    "identifier": {
+      "doi": "10.1002/cplu.202100224",
+      "pmid": "",
+      "url": "https://doi.org/10.1002/cplu.202100224"
+    },
+    "source": {
+      "containerTitle": "ChemPlusChem",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "leon2021looking"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "chempluschem"
+    ]
+  },
+  {
+    "id": "research-support-qin2021tale",
+    "title": "A tale of two sites - II. Inferring the properties of minihalo-hosted galaxies with upcoming 21-cm interferometers",
+    "creator": [
+      {
+        "name": "Yuxiang Qin",
+        "role": "author",
+        "family": "Qin",
+        "given": "Yuxiang"
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      },
+      {
+        "name": "Bradley Greig",
+        "role": "author",
+        "family": "Greig",
+        "given": "Bradley"
+      },
+      {
+        "name": "Jaehong Park",
+        "role": "author",
+        "family": "Park",
+        "given": "Jaehong"
+      }
+    ],
+    "year": 2021,
+    "date": "2021-03",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/staa3408",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/staa3408"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "501",
+      "issue": "4",
+      "pages": "4748–4758",
+      "archive": "",
+      "archiveLocation": "qin2021tale"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-greig2021interpreting",
+    "title": "Interpreting LOFAR 21-cm signal upper limits at z ≍ 9.1 in the context of high-z galaxy and reionization observations",
+    "creator": [
+      {
+        "name": "Bradley Greig",
+        "role": "author",
+        "family": "Greig",
+        "given": "Bradley"
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      },
+      {
+        "name": "Léon V. E. Koopmans",
+        "role": "author",
+        "family": "Koopmans",
+        "given": "Léon V. E."
+      },
+      {
+        "name": "Benedetta Ciardi",
+        "role": "author",
+        "family": "Ciardi",
+        "given": "Benedetta"
+      },
+      {
+        "name": "Garrelt Mellema",
+        "role": "author",
+        "family": "Mellema",
+        "given": "Garrelt"
+      },
+      {
+        "name": "Saleem Zaroubi",
+        "role": "author",
+        "family": "Zaroubi",
+        "given": "Saleem"
+      },
+      {
+        "name": "Sambit K. Giri",
+        "role": "author",
+        "family": "Giri",
+        "given": "Sambit K."
+      },
+      {
+        "name": "Raghunath Ghara",
+        "role": "author",
+        "family": "Ghara",
+        "given": "Raghunath"
+      },
+      {
+        "name": "Abhik Ghosh",
+        "role": "author",
+        "family": "Ghosh",
+        "given": "Abhik"
+      },
+      {
+        "name": "Ilian T. Iliev",
+        "role": "author",
+        "family": "Iliev",
+        "given": "Ilian T."
+      },
+      {
+        "name": "Florent G. Mertens",
+        "role": "author",
+        "family": "Mertens",
+        "given": "Florent G."
+      },
+      {
+        "name": "Rajesh Mondal",
+        "role": "author",
+        "family": "Mondal",
+        "given": "Rajesh"
+      },
+      {
+        "name": "André R. Offringa",
+        "role": "author",
+        "family": "Offringa",
+        "given": "André R."
+      },
+      {
+        "name": "Vishambhar N. Pandey",
+        "role": "author",
+        "family": "Pandey",
+        "given": "Vishambhar N."
+      }
+    ],
+    "year": 2021,
+    "date": "2021-01",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/staa3593",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/staa3593"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "501",
+      "issue": "1",
+      "pages": "1–13",
+      "archive": "",
+      "archiveLocation": "greig2021interpreting"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-gomez2021role",
+    "title": "The role of spike protein mutations in the infectious power of sars-cov-2 variants: A molecular interaction perspective",
+    "creator": [
+      {
+        "name": "Santiago A Gomez",
+        "role": "author",
+        "family": "Gomez",
+        "given": "Santiago A"
+      },
+      {
+        "name": "Natalia Rojas-Valencia",
+        "role": "author",
+        "family": "Rojas-Valencia",
+        "given": "Natalia"
+      },
+      {
+        "name": "Sara Gomez",
+        "role": "author",
+        "family": "Gomez",
+        "given": "Sara"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      },
+      {
+        "name": "Albeiro Restrepo",
+        "role": "author",
+        "family": "Restrepo",
+        "given": "Albeiro"
+      }
+    ],
+    "year": 2021,
+    "date": "2021",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in ChemBioChem.",
+    "identifier": {
+      "doi": "10.1002/cbic.202100393",
+      "pmid": "",
+      "url": "https://doi.org/10.1002/cbic.202100393"
+    },
+    "source": {
+      "containerTitle": "ChemBioChem",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "gomez2021role"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "chembiochem"
+    ]
+  },
+  {
+    "id": "research-support-rojasvalencia2021thermodynamics",
+    "title": "Thermodynamics and intermolecular interactions during the insertion of anionic naproxen into model cell membranes",
+    "creator": [
+      {
+        "name": "Natalia Rojas-Valencia",
+        "role": "author",
+        "family": "Rojas-Valencia",
+        "given": "Natalia"
+      },
+      {
+        "name": "Sara Gómez",
+        "role": "author",
+        "family": "Gómez",
+        "given": "Sara"
+      },
+      {
+        "name": "Francisco Núñez-Zarur",
+        "role": "author",
+        "family": "Núñez-Zarur",
+        "given": "Francisco"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      },
+      {
+        "name": "Cacier Hadad",
+        "role": "author",
+        "family": "Hadad",
+        "given": "Cacier"
+      },
+      {
+        "name": "Albeiro Restrepo",
+        "role": "author",
+        "family": "Restrepo",
+        "given": "Albeiro"
+      }
+    ],
+    "year": 2021,
+    "date": "2021",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in The Journal of Physical Chemistry B.",
+    "identifier": {
+      "doi": "10.1021/acs.jpcb.1c06766",
+      "pmid": "34492187",
+      "url": "https://doi.org/10.1021/acs.jpcb.1c06766"
+    },
+    "source": {
+      "containerTitle": "The Journal of Physical Chemistry B",
+      "volume": "125",
+      "issue": "36",
+      "pages": "10383–10391",
+      "archive": "",
+      "archiveLocation": "rojasvalencia2021thermodynamics"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "the-journal-of-physical-chemistry-b"
+    ]
+  },
+  {
+    "id": "research-support-gomez2021molecular",
+    "title": "A molecular twist on hydrophobicity",
+    "creator": [
+      {
+        "name": "Sara Gómez",
+        "role": "author",
+        "family": "Gómez",
+        "given": "Sara"
+      },
+      {
+        "name": "Natalia Rojas-Valencia",
+        "role": "author",
+        "family": "Rojas-Valencia",
+        "given": "Natalia"
+      },
+      {
+        "name": "Santiago A. Gómez",
+        "role": "author",
+        "family": "Gómez",
+        "given": "Santiago A."
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      },
+      {
+        "name": "Gabriel Merino",
+        "role": "author",
+        "family": "Merino",
+        "given": "Gabriel"
+      },
+      {
+        "name": "Albeiro Restrepo",
+        "role": "author",
+        "family": "Restrepo",
+        "given": "Albeiro"
+      }
+    ],
+    "year": 2021,
+    "date": "2021",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Chem. Sci..",
+    "identifier": {
+      "doi": "10.1039/D1SC02673A",
+      "pmid": "",
+      "url": "https://doi.org/10.1039/D1SC02673A"
+    },
+    "source": {
+      "containerTitle": "Chem. Sci.",
+      "volume": "12",
+      "issue": "",
+      "pages": "9233–9245",
+      "archive": "",
+      "archiveLocation": "gomez2021molecular"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "chem-sci"
+    ]
+  },
+  {
+    "id": "research-support-egidi2021polarizable",
+    "title": "A polarizable three-layer frozen density embedding/molecular mechanics approach",
+    "creator": [
+      {
+        "name": "Franco Egidi",
+        "role": "author",
+        "family": "Egidi",
+        "given": "Franco"
+      },
+      {
+        "name": "Sara Angelico",
+        "role": "author",
+        "family": "Angelico",
+        "given": "Sara"
+      },
+      {
+        "name": "Piero Lafiosca",
+        "role": "author",
+        "family": "Lafiosca",
+        "given": "Piero"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2021,
+    "date": "2021",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in The Journal of Chemical Physics.",
+    "identifier": {
+      "doi": "10.1063/5.0045574",
+      "pmid": "",
+      "url": "https://doi.org/10.1063/5.0045574"
+    },
+    "source": {
+      "containerTitle": "The Journal of Chemical Physics",
+      "volume": "154",
+      "issue": "16",
+      "pages": "164107",
+      "archive": "",
+      "archiveLocation": "egidi2021polarizable"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "the-journal-of-chemical-physics"
+    ]
+  },
+  {
+    "id": "research-support-paolino2021transition",
+    "title": "On the transition from a biomimetic molecular switch to a rotary molecular motor",
+    "creator": [
+      {
+        "name": "Marco Paolino",
+        "role": "author",
+        "family": "Paolino",
+        "given": "Marco"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Madushanka Manathunga",
+        "role": "author",
+        "family": "Manathunga",
+        "given": "Madushanka"
+      },
+      {
+        "name": "Loredana Latterini",
+        "role": "author",
+        "family": "Latterini",
+        "given": "Loredana"
+      },
+      {
+        "name": "Giulia Zampini",
+        "role": "author",
+        "family": "Zampini",
+        "given": "Giulia"
+      },
+      {
+        "name": "Robin Pierron",
+        "role": "author",
+        "family": "Pierron",
+        "given": "Robin"
+      },
+      {
+        "name": "Jérémie Léonard",
+        "role": "author",
+        "family": "Léonard",
+        "given": "Jérémie"
+      },
+      {
+        "name": "Stefania Fusi",
+        "role": "author",
+        "family": "Fusi",
+        "given": "Stefania"
+      },
+      {
+        "name": "Gianluca Giorgi",
+        "role": "author",
+        "family": "Giorgi",
+        "given": "Gianluca"
+      },
+      {
+        "name": "Germano Giuliani",
+        "role": "author",
+        "family": "Giuliani",
+        "given": "Germano"
+      },
+      {
+        "name": "Andrea Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Andrea"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      },
+      {
+        "name": "Massimo Olivucci",
+        "role": "author",
+        "family": "Olivucci",
+        "given": "Massimo"
+      }
+    ],
+    "year": 2021,
+    "date": "2021",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in The Journal of Physical Chemistry Letters.",
+    "identifier": {
+      "doi": "10.1021/acs.jpclett.1c00526",
+      "pmid": "33856801",
+      "url": "https://doi.org/10.1021/acs.jpclett.1c00526"
+    },
+    "source": {
+      "containerTitle": "The Journal of Physical Chemistry Letters",
+      "volume": "12",
+      "issue": "16",
+      "pages": "3875–3884",
+      "archive": "",
+      "archiveLocation": "paolino2021transition"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "the-journal-of-physical-chemistry-letters"
+    ]
+  },
+  {
+    "id": "research-support-marrazzini2021multilevel",
+    "title": "Multilevel density functional theory",
+    "creator": [
+      {
+        "name": "Gioia Marrazzini",
+        "role": "author",
+        "family": "Marrazzini",
+        "given": "Gioia"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Marco Scavino",
+        "role": "author",
+        "family": "Scavino",
+        "given": "Marco"
+      },
+      {
+        "name": "Franco Egidi",
+        "role": "author",
+        "family": "Egidi",
+        "given": "Franco"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      },
+      {
+        "name": "Henrik Koch",
+        "role": "author",
+        "family": "Koch",
+        "given": "Henrik"
+      }
+    ],
+    "year": 2021,
+    "date": "2021",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Journal of Chemical Theory and Computation.",
+    "identifier": {
+      "doi": "10.1021/acs.jctc.0c00940",
+      "pmid": "33449681",
+      "url": "https://doi.org/10.1021/acs.jctc.0c00940"
+    },
+    "source": {
+      "containerTitle": "Journal of Chemical Theory and Computation",
+      "volume": "17",
+      "issue": "2",
+      "pages": "791–803",
+      "archive": "",
+      "archiveLocation": "marrazzini2021multilevel"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "journal-of-chemical-theory-and-computation"
+    ]
+  },
+  {
+    "id": "research-support-gomez2021binding",
+    "title": "Binding of sars-cov-2 to cell receptors: A tale of molecular evolution",
+    "creator": [
+      {
+        "name": "Santiago A. Gómez",
+        "role": "author",
+        "family": "Gómez",
+        "given": "Santiago A."
+      },
+      {
+        "name": "Natalia Rojas-Valencia",
+        "role": "author",
+        "family": "Rojas-Valencia",
+        "given": "Natalia"
+      },
+      {
+        "name": "Sara Gómez",
+        "role": "author",
+        "family": "Gómez",
+        "given": "Sara"
+      },
+      {
+        "name": "Franco Egidi",
+        "role": "author",
+        "family": "Egidi",
+        "given": "Franco"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      },
+      {
+        "name": "Albeiro Restrepo",
+        "role": "author",
+        "family": "Restrepo",
+        "given": "Albeiro"
+      }
+    ],
+    "year": 2021,
+    "date": "2021",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in ChemBioChem.",
+    "identifier": {
+      "doi": "10.1002/cbic.202000618",
+      "pmid": "",
+      "url": "https://doi.org/10.1002/cbic.202000618"
+    },
+    "source": {
+      "containerTitle": "ChemBioChem",
+      "volume": "22",
+      "issue": "4",
+      "pages": "724–732",
+      "archive": "",
+      "archiveLocation": "gomez2021binding"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "chembiochem"
+    ]
+  },
+  {
+    "id": "research-support-ambrosetti2021quantum",
+    "title": "Quantum mechanics/fluctuating charge protocol to compute solvatochromic shifts",
+    "creator": [
+      {
+        "name": "Matteo Ambrosetti",
+        "role": "author",
+        "family": "Ambrosetti",
+        "given": "Matteo"
+      },
+      {
+        "name": "Sulejman Skoko",
+        "role": "author",
+        "family": "Skoko",
+        "given": "Sulejman"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2021,
+    "date": "2021",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Journal of chemical theory and computation.",
+    "identifier": {
+      "doi": "10.1021/acs.jctc.1c00763",
+      "pmid": "",
+      "url": "https://doi.org/10.1021/acs.jctc.1c00763"
+    },
+    "source": {
+      "containerTitle": "Journal of chemical theory and computation",
+      "volume": "17",
+      "issue": "11",
+      "pages": "7146–7156",
+      "archive": "",
+      "archiveLocation": "ambrosetti2021quantum"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "journal-of-chemical-theory-and-computation"
+    ]
+  },
+  {
+    "id": "research-support-lafiosca2021going",
+    "title": "Going beyond the limits of classical atomistic modeling of plasmonic nanostructures",
+    "creator": [
+      {
+        "name": "Piero Lafiosca",
+        "role": "author",
+        "family": "Lafiosca",
+        "given": "Piero"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Michele Benzi",
+        "role": "author",
+        "family": "Benzi",
+        "given": "Michele"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2021,
+    "date": "2021",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in The Journal of Physical Chemistry C.",
+    "identifier": {
+      "doi": "10.1021/acs.jpcc.1c04716",
+      "pmid": "",
+      "url": "https://doi.org/10.1021/acs.jpcc.1c04716"
+    },
+    "source": {
+      "containerTitle": "The Journal of Physical Chemistry C",
+      "volume": "125",
+      "issue": "43",
+      "pages": "23848–23863",
+      "archive": "",
+      "archiveLocation": "lafiosca2021going"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "the-journal-of-physical-chemistry-c"
+    ]
+  },
+  {
+    "id": "research-support-qin2020reionization",
+    "title": "Reionization inference from the CMB optical depth and E-mode polarization power spectra",
+    "creator": [
+      {
+        "name": "Yuxiang Qin",
+        "role": "author",
+        "family": "Qin",
+        "given": "Yuxiang"
+      },
+      {
+        "name": "Vivian Poulin",
+        "role": "author",
+        "family": "Poulin",
+        "given": "Vivian"
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      },
+      {
+        "name": "Bradley Greig",
+        "role": "author",
+        "family": "Greig",
+        "given": "Bradley"
+      },
+      {
+        "name": "Steven Murray",
+        "role": "author",
+        "family": "Murray",
+        "given": "Steven"
+      },
+      {
+        "name": "Jaehong Park",
+        "role": "author",
+        "family": "Park",
+        "given": "Jaehong"
+      }
+    ],
+    "year": 2020,
+    "date": "2020-11",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in MNRAS.",
+    "identifier": {
+      "doi": "10.1093/mnras/staa2797",
+      "pmid": "",
+      "url": "https://doi.org/10.1093/mnras/staa2797"
+    },
+    "source": {
+      "containerTitle": "MNRAS",
+      "volume": "499",
+      "issue": "1",
+      "pages": "550–558",
+      "archive": "",
+      "archiveLocation": "qin2020reionization"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "mnras"
+    ]
+  },
+  {
+    "id": "research-support-murray202021cmfast",
+    "title": "21cmFAST v3: A Python-integrated C code for generating 3D realizations of the cosmic 21cm signal",
+    "creator": [
+      {
+        "name": "Steven Murray",
+        "role": "author",
+        "family": "Murray",
+        "given": "Steven"
+      },
+      {
+        "name": "Bradley Greig",
+        "role": "author",
+        "family": "Greig",
+        "given": "Bradley"
+      },
+      {
+        "name": "Andrei Mesinger",
+        "role": "author",
+        "family": "Mesinger",
+        "given": "Andrei"
+      },
+      {
+        "name": "Julian Muñoz",
+        "role": "author",
+        "family": "Muñoz",
+        "given": "Julian"
+      },
+      {
+        "name": "Yuxiang Qin",
+        "role": "author",
+        "family": "Qin",
+        "given": "Yuxiang"
+      },
+      {
+        "name": "Jaehong Park",
+        "role": "author",
+        "family": "Park",
+        "given": "Jaehong"
+      },
+      {
+        "name": "Catherine Watkinson",
+        "role": "author",
+        "family": "Watkinson",
+        "given": "Catherine"
+      }
+    ],
+    "year": 2020,
+    "date": "2020-10",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in The Journal of Open Source Software.",
+    "identifier": {
+      "doi": "10.21105/joss.02582",
+      "pmid": "",
+      "url": "https://doi.org/10.21105/joss.02582"
+    },
+    "source": {
+      "containerTitle": "The Journal of Open Source Software",
+      "volume": "5",
+      "issue": "54",
+      "pages": "2582",
+      "archive": "",
+      "archiveLocation": "murray202021cmfast"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "the-journal-of-open-source-software"
+    ]
+  },
+  {
+    "id": "research-support-skeidsvoll2020time",
+    "title": "Time-dependent coupled-cluster theory for ultrafast transient-absorption spectroscopy",
+    "creator": [
+      {
+        "name": "Andreas S. Skeidsvoll",
+        "role": "author",
+        "family": "Skeidsvoll",
+        "given": "Andreas S."
+      },
+      {
+        "name": "Alice Balbi",
+        "role": "author",
+        "family": "Balbi",
+        "given": "Alice"
+      },
+      {
+        "name": "Henrik Koch",
+        "role": "author",
+        "family": "Koch",
+        "given": "Henrik"
+      }
+    ],
+    "year": 2020,
+    "date": "2020-08",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Phys. Rev. A.",
+    "identifier": {
+      "doi": "10.1103/PhysRevA.102.023115",
+      "pmid": "",
+      "url": "https://doi.org/10.1103/PhysRevA.102.023115"
+    },
+    "source": {
+      "containerTitle": "Phys. Rev. A",
+      "volume": "102",
+      "issue": "",
+      "pages": "023115",
+      "archive": "",
+      "archiveLocation": "skeidsvoll2020time"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "phys-rev-a"
+    ]
+  },
+  {
+    "id": "research-support-skoko2020simulating",
+    "title": "Simulating absorption spectra of flavonoids in aqueous solution: A polarizable qm/mm study",
+    "creator": [
+      {
+        "name": "Sulejman Skoko",
+        "role": "author",
+        "family": "Skoko",
+        "given": "Sulejman"
+      },
+      {
+        "name": "Matteo Ambrosetti",
+        "role": "author",
+        "family": "Ambrosetti",
+        "given": "Matteo"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2020,
+    "date": "2020",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Molecules.",
+    "identifier": {
+      "doi": "10.3390/molecules25245853",
+      "pmid": "",
+      "url": "https://doi.org/10.3390/molecules25245853"
+    },
+    "source": {
+      "containerTitle": "Molecules",
+      "volume": "25",
+      "issue": "24",
+      "pages": "",
+      "archive": "",
+      "archiveLocation": "skoko2020simulating"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "molecules"
+    ]
+  },
+  {
+    "id": "research-support-giovannini2020theory",
+    "title": "Theory and algorithms for chiroptical properties and spectroscopies of aqueous systems",
+    "creator": [
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Franco Egidi",
+        "role": "author",
+        "family": "Egidi",
+        "given": "Franco"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2020,
+    "date": "2020",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Phys. Chem. Chem. Phys..",
+    "identifier": {
+      "doi": "10.1039/D0CP04027D",
+      "pmid": "",
+      "url": "https://doi.org/10.1039/D0CP04027D"
+    },
+    "source": {
+      "containerTitle": "Phys. Chem. Chem. Phys.",
+      "volume": "22",
+      "issue": "",
+      "pages": "22864–22879",
+      "archive": "",
+      "archiveLocation": "giovannini2020theory"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "phys-chem-chem-phys"
+    ]
+  },
+  {
+    "id": "research-support-marrazzini2020calculation",
+    "title": "Calculation of linear and non-linear electric response properties of systems in aqueous solution: A polarizable quantum/classical approach with quantum repulsion effects",
+    "creator": [
+      {
+        "name": "Gioia Marrazzini",
+        "role": "author",
+        "family": "Marrazzini",
+        "given": "Gioia"
+      },
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Franco Egidi",
+        "role": "author",
+        "family": "Egidi",
+        "given": "Franco"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2020,
+    "date": "2020",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Journal of Chemical Theory and Computation.",
+    "identifier": {
+      "doi": "10.1021/acs.jctc.0c00674",
+      "pmid": "33058671",
+      "url": "https://doi.org/10.1021/acs.jctc.0c00674"
+    },
+    "source": {
+      "containerTitle": "Journal of Chemical Theory and Computation",
+      "volume": "16",
+      "issue": "11",
+      "pages": "6993–7004",
+      "archive": "",
+      "archiveLocation": "marrazzini2020calculation"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "journal-of-chemical-theory-and-computation"
+    ]
+  },
+  {
+    "id": "research-support-giovannini2020graphene",
+    "title": "Graphene plasmonics: Fully atomistic approach for realistic structures",
+    "creator": [
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Luca Bonatti",
+        "role": "author",
+        "family": "Bonatti",
+        "given": "Luca"
+      },
+      {
+        "name": "Marco Polini",
+        "role": "author",
+        "family": "Polini",
+        "given": "Marco"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2020,
+    "date": "2020",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in The Journal of Physical Chemistry Letters.",
+    "identifier": {
+      "doi": "10.1021/acs.jpclett.0c02051",
+      "pmid": "32805117",
+      "url": "https://doi.org/10.1021/acs.jpclett.0c02051"
+    },
+    "source": {
+      "containerTitle": "The Journal of Physical Chemistry Letters",
+      "volume": "11",
+      "issue": "18",
+      "pages": "7595–7602",
+      "archive": "",
+      "archiveLocation": "giovannini2020graphene"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "the-journal-of-physical-chemistry-letters"
+    ]
+  },
+  {
+    "id": "research-support-giovannini2020molecular",
+    "title": "Molecular spectroscopy of aqueous solutions: a theoretical perspective",
+    "creator": [
+      {
+        "name": "Tommaso Giovannini",
+        "role": "author",
+        "family": "Giovannini",
+        "given": "Tommaso"
+      },
+      {
+        "name": "Franco Egidi",
+        "role": "author",
+        "family": "Egidi",
+        "given": "Franco"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      }
+    ],
+    "year": 2020,
+    "date": "2020",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in Chem. Soc. Rev..",
+    "identifier": {
+      "doi": "10.1039/C9CS00464E",
+      "pmid": "",
+      "url": "https://doi.org/10.1039/C9CS00464E"
+    },
+    "source": {
+      "containerTitle": "Chem. Soc. Rev.",
+      "volume": "49",
+      "issue": "",
+      "pages": "5664–5677",
+      "archive": "",
+      "archiveLocation": "giovannini2020molecular"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "chem-soc-rev"
+    ]
+  },
+  {
+    "id": "research-support-rojasvalencia2020evolution",
+    "title": "Evolution of bonding during the insertion of anionic ibuprofen into model cell membranes",
+    "creator": [
+      {
+        "name": "Natalia Rojas-Valencia",
+        "role": "author",
+        "family": "Rojas-Valencia",
+        "given": "Natalia"
+      },
+      {
+        "name": "Sara Gómez",
+        "role": "author",
+        "family": "Gómez",
+        "given": "Sara"
+      },
+      {
+        "name": "Sebastian Montillo",
+        "role": "author",
+        "family": "Montillo",
+        "given": "Sebastian"
+      },
+      {
+        "name": "Marcela Manrique-Moreno",
+        "role": "author",
+        "family": "Manrique-Moreno",
+        "given": "Marcela"
+      },
+      {
+        "name": "Chiara Cappelli",
+        "role": "author",
+        "family": "Cappelli",
+        "given": "Chiara"
+      },
+      {
+        "name": "Cacier Hadad",
+        "role": "author",
+        "family": "Hadad",
+        "given": "Cacier"
+      },
+      {
+        "name": "Albeiro Restrepo",
+        "role": "author",
+        "family": "Restrepo",
+        "given": "Albeiro"
+      }
+    ],
+    "year": 2020,
+    "date": "2020",
+    "language": [],
+    "type": "article",
+    "typeLabel": "Journal article",
+    "description": "Journal article published in The Journal of Physical Chemistry B.",
+    "identifier": {
+      "doi": "10.1021/acs.jpcb.9b09705",
+      "pmid": "31790579",
+      "url": "https://doi.org/10.1021/acs.jpcb.9b09705"
+    },
+    "source": {
+      "containerTitle": "The Journal of Physical Chemistry B",
+      "volume": "124",
+      "issue": "1",
+      "pages": "79–90",
+      "archive": "",
+      "archiveLocation": "rojasvalencia2020evolution"
+    },
+    "keywords": [
+      "research-support",
+      "bibtex-import",
+      "article",
+      "the-journal-of-physical-chemistry-b"
+    ]
+  }
+]

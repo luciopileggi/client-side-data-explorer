@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/client-side-data-explorer/schema.json",
+  "title": "Client-Side Data Explorer Dataset",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "title", "creator", "type", "language"],
+    "additionalProperties": true,
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1
+      },
+      "creator": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["name"],
+          "additionalProperties": true,
+          "properties": {
+            "name": {
+              "type": "string",
+              "minLength": 1
+            },
+            "role": {
+              "type": "string"
+            },
+            "family": {
+              "type": "string"
+            },
+            "given": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "year": {
+        "type": ["integer", "null"]
+      },
+      "date": {
+        "type": "string"
+      },
+      "language": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "uniqueItems": true
+      },
+      "type": {
+        "type": "string",
+        "minLength": 1
+      },
+      "typeLabel": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "identifier": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "doi": {
+            "type": "string"
+          },
+          "pmid": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        }
+      },
+      "source": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "containerTitle": {
+            "type": "string"
+          },
+          "volume": {
+            "type": "string"
+          },
+          "issue": {
+            "type": "string"
+          },
+          "pages": {
+            "type": "string"
+          },
+          "archive": {
+            "type": "string"
+          },
+          "archiveLocation": {
+            "type": "string"
+          }
+        }
+      },
+      "keywords": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "uniqueItems": true
+      }
+    }
+  }
+}

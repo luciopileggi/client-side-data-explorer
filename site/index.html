@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Client-Side Data Explorer</title>
+    <link rel="stylesheet" href="styles.css?v=20260510-1">
+    <script src="app.js?v=20260510-1" defer></script>
+  </head>
+  <body data-page="index">
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="Client-Side Data Explorer home">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span data-config="brand">Data Explorer</span>
+      </a>
+      <nav class="site-nav" aria-label="Primary">
+        <a aria-current="page" href="index.html">Records</a>
+        <a href="credits.html">Credits</a>
+      </nav>
+    </header>
+
+    <main class="page-shell">
+      <section class="workspace-head" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow" data-config="eyebrow">Reusable static explorer</p>
+          <h1 id="page-title" data-config="title">Dataset records</h1>
+        </div>
+        <div class="stats-strip" aria-label="Dataset summary">
+          <div>
+            <span id="statRecords">0</span>
+            <small data-stat-label="records">records</small>
+          </div>
+          <div>
+            <span id="statYears">0</span>
+            <small data-stat-label="years">years</small>
+          </div>
+          <div>
+            <span id="statSources">0</span>
+            <small data-stat-label="sources">sources</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="controls-panel" aria-label="Search and filters">
+        <div class="search-row">
+          <label class="field field-search">
+            <span>Search</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="Title, author, DOI, source">
+          </label>
+          <label class="field">
+            <span>Sort</span>
+            <select id="sortSelect">
+              <option value="year-desc">Newest first</option>
+              <option value="year-asc">Oldest first</option>
+              <option value="title-asc">Title A-Z</option>
+              <option value="source-asc">Source A-Z</option>
+            </select>
+          </label>
+          <button class="icon-button" id="resetButton" type="button" title="Reset filters" aria-label="Reset filters">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M4 4v6h6"></path>
+              <path d="M20 20v-6h-6"></path>
+              <path d="M20 9A8 8 0 0 0 6.2 5.4L4 8"></path>
+              <path d="M4 15a8 8 0 0 0 13.8 3.6L20 16"></path>
+            </svg>
+          </button>
+        </div>
+
+        <div class="filter-grid">
+          <label class="field">
+            <span>Type</span>
+            <select id="typeFilter"></select>
+          </label>
+          <label class="field">
+            <span>Year</span>
+            <select id="yearFilter"></select>
+          </label>
+          <label class="field">
+            <span>Source</span>
+            <select id="sourceFilter"></select>
+          </label>
+          <label class="field">
+            <span>Author</span>
+            <select id="authorFilter"></select>
+          </label>
+        </div>
+      </section>
+
+      <section class="results-toolbar" aria-live="polite">
+        <p id="resultsCount">Loading records...</p>
+        <div class="button-group" aria-label="Export filtered records">
+          <button class="tool-button" type="button" data-export="json">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+              <path d="M14 2v6h6"></path>
+              <path d="M10 13h4"></path>
+              <path d="M10 17h4"></path>
+            </svg>
+            JSON
+          </button>
+          <button class="tool-button" type="button" data-export="csl">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M6 4h12"></path>
+              <path d="M6 8h12"></path>
+              <path d="M8 12h8"></path>
+              <path d="M9 16h6"></path>
+              <path d="M10 20h4"></path>
+            </svg>
+            CSL
+          </button>
+          <button class="tool-button" type="button" data-export="jsonld">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 3v18"></path>
+              <path d="M5 8h14"></path>
+              <path d="M5 16h14"></path>
+              <path d="M7 4l10 16"></path>
+              <path d="M17 4 7 20"></path>
+            </svg>
+            JSON-LD
+          </button>
+        </div>
+      </section>
+
+      <section>
+        <div class="record-list" id="recordList"></div>
+        <div class="empty-state" id="emptyState" hidden>
+          <h2>No matching records</h2>
+          <p>Try a different query or remove one filter.</p>
+        </div>
+        <button class="load-more" id="loadMoreButton" type="button" hidden>Load more</button>
+      </section>
+    </main>
+  </body>
+</html>

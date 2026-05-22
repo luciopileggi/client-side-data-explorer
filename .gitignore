@@ -1,0 +1,6 @@
+/site/data/dataset.json
+/site/data/import/
+/site/data/export/
+/exports/*
+!/exports/.gitkeep
+.DS_Store

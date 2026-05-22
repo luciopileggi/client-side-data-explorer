@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Record detail - Client-Side Data Explorer</title>
+    <link rel="stylesheet" href="styles.css?v=20260510-1">
+    <script src="app.js?v=20260510-1" defer></script>
+  </head>
+  <body data-page="detail">
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="Client-Side Data Explorer home">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span data-config="brand">Data Explorer</span>
+      </a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="index.html">Records</a>
+        <a href="credits.html">Credits</a>
+      </nav>
+    </header>
+
+    <main class="page-shell detail-shell">
+      <a class="back-link" href="index.html">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M19 12H5"></path>
+          <path d="m12 19-7-7 7-7"></path>
+        </svg>
+        Records
+      </a>
+      <article id="detailView" class="detail-view" aria-live="polite">
+        <p class="loading-text">Loading record...</p>
+      </article>
+    </main>
+  </body>
+</html>
