@@ -113,6 +113,8 @@ For GitHub Pages, publish the `site/` directory with GitHub Actions, or copy its
 
 Read `docs/disclaimers.md` before publishing a public dataset. The short version: this repository provides software and example data handling only; dataset publishers remain responsible for rights, accuracy, privacy, attribution, and review of generated or converted metadata.
 
+Security notice: this software is provided as-is and has not undergone a professional security audit. Do not publish secrets, credentials, private datasets, personal data, restricted archival notes, or sensitive deployment details in this repository or in datasets. Anyone deploying or forking this project is responsible for reviewing hosting settings, dataset contents, browser security behavior, access controls, and any local changes before publication.
+
 ## Dataset Format
 
 The app uses a canonical internal JSON format. See `site/data/schema.json` and `docs/data-model.md`.
