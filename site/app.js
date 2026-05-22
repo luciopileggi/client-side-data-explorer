@@ -15,6 +15,9 @@
     },
   };
 
+  const OFFLINE_CONFIG_KEY = "__DATA_EXPLORER_OFFLINE_CONFIG__";
+  const OFFLINE_DATASET_KEY = "__DATA_EXPLORER_OFFLINE_DATASET__";
+
   const state = {
     config: DEFAULT_CONFIG,
     datasetUrl: DEFAULT_DATASET_URL,
@@ -108,6 +111,16 @@
       return false;
     }
     return !path.split("/").some((segment) => segment === "..");
+  }
+
+  function embeddedConfig() {
+    const config = window[OFFLINE_CONFIG_KEY];
+    return config && typeof config === "object" && !Array.isArray(config) ? config : null;
+  }
+
+  function embeddedDataset() {
+    const dataset = window[OFFLINE_DATASET_KEY];
+    return Array.isArray(dataset) ? dataset : null;
   }
 
   function searchText(record) {
@@ -677,6 +690,16 @@
   }
 
   async function loadConfig() {
+    const config = embeddedConfig();
+    if (config) {
+      state.config = mergeConfig(config);
+      if (!isSafeRelativePath(state.config.datasetUrl)) {
+        throw new Error("Unsafe datasetUrl in embedded offline config");
+      }
+      state.datasetUrl = state.config.datasetUrl || DEFAULT_DATASET_URL;
+      return;
+    }
+
     const response = await fetch(DEFAULT_CONFIG_URL, { cache: "no-store" });
     if (!response.ok) {
       state.config = DEFAULT_CONFIG;
@@ -691,6 +714,11 @@
   }
 
   async function loadDataset() {
+    const dataset = embeddedDataset();
+    if (dataset) {
+      return dataset;
+    }
+
     const response = await fetch(state.datasetUrl, { cache: "no-store" });
     if (!response.ok) {
       throw new Error(`Dataset request failed: ${response.status}`);

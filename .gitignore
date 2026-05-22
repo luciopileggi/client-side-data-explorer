@@ -3,4 +3,5 @@
 /site/data/export/
 /exports/*
 !/exports/.gitkeep
+!/exports/client-side-data-explorer-offline-demo.zip
 .DS_Store

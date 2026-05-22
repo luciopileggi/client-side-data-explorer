@@ -19,6 +19,7 @@ No backend and no build step. The repository includes one optional example datas
 │       ├── schema.json
 │       └── site.config.json
 ├── scripts/
+│   ├── build-offline-package.js
 │   ├── check-site.js
 │   ├── convert-internal-to-jsonld.js
 │   ├── convert-internal-to-csljson.js
@@ -30,6 +31,8 @@ No backend and no build step. The repository includes one optional example datas
 │   └── utils.js
 ├── docs/
 ├── exports/
+│   ├── client-side-data-explorer-offline-demo.zip
+│   └── .gitkeep
 ├── AUTHORS
 └── LICENSE
 ```
@@ -97,6 +100,14 @@ Convert a BibTeX bibliography into the internal dataset format:
 ```bash
 node scripts/convert-bibtex-to-internal.js input.bib site/data/research-support.dataset.json
 ```
+
+Build a no-server offline demo ZIP:
+
+```bash
+node scripts/build-offline-package.js
+```
+
+The generated archive is `exports/client-side-data-explorer-offline-demo.zip`. Extract it and open `index.html` directly with the browser. The offline package embeds the configured dataset in `offline-data.js`, so it does not rely on `fetch()` or a local HTTP server.
 
 ## Publication
 
