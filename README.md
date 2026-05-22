@@ -108,17 +108,6 @@ node scripts/build-offline-package.js
 
 The generated archive is `exports/client-side-data-explorer-offline-demo.zip`. Extract it and open `index.html` directly with the browser. The offline package embeds the configured dataset in `offline-data.js`, so it does not rely on `fetch()` or a local HTTP server.
 
-## Publication
-
-For Cloudflare Pages:
-
-```text
-Build command: node scripts/check-site.js --require-dataset
-Output directory: site
-```
-
-For GitHub Pages, publish the `site/` directory with GitHub Actions, or copy its contents to the branch used by Pages. Keep private imports, source registries, and local exports outside `site/`.
-
 ## Disclaimers
 
 Read `docs/disclaimers.md` before publishing a public dataset. The short version: this repository provides software and example data handling only; dataset publishers remain responsible for rights, accuracy, privacy, attribution, and review of generated or converted metadata.
