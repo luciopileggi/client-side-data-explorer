@@ -4,6 +4,11 @@ A lightweight static web application for browsing, filtering, and searching stru
 
 No backend and no build step. The repository includes one optional example dataset generated from a BibTeX bibliography.
 
+## Demo
+
+- Live demo: https://luciopileggi.github.io/client-side-data-explorer/
+- Offline ZIP: https://github.com/luciopileggi/client-side-data-explorer/raw/main/exports/client-side-data-explorer-offline-demo.zip
+
 ## What This Repository Contains
 
 ```text
