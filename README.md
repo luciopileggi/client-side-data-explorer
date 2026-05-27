@@ -147,7 +147,7 @@ Minimal record:
 
 ## Credits
 
-- Software created by Lucio Pileggi
+- Software created by Lucio Pileggi (AT) SNS.IT
 - Developed with AI-assisted coding support for implementation, refactoring, and documentation
 - Dublin Core Metadata Initiative
 - Text Encoding Initiative (TEI)
