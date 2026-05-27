@@ -152,6 +152,10 @@ Minimal record:
 - Dublin Core Metadata Initiative
 - Text Encoding Initiative (TEI)
 - DataCite
+- Schema.org
+- JSON Schema
+- JSON-LD
+- CSL-JSON
 
 ## License
 
