@@ -9,6 +9,8 @@ No backend and no build step. The repository includes one optional example datas
 - Live demo: https://luciopileggi.github.io/client-side-data-explorer/
 - Offline ZIP: https://github.com/luciopileggi/client-side-data-explorer/raw/main/exports/client-side-data-explorer-offline-demo.zip
 
+A no-server offline demo ZIP has already been built and included in this repository as `exports/client-side-data-explorer-offline-demo.zip`.
+
 ## What This Repository Contains
 
 ```text
@@ -79,7 +81,7 @@ For safety, `datasetUrl` must be a plain relative path inside the site. Absolute
 
 Opening `site/index.html` directly with `file://` is not supported by default because browsers often block `fetch()` for local JSON files. See `docs/local-file-mode.md` for an optional File API approach if you want a no-server local variant.
 
-Build a no-server offline demo ZIP:
+Build or refresh the no-server offline demo ZIP:
 
 ```bash
 node scripts/build-offline-package.js
