@@ -79,6 +79,14 @@ For safety, `datasetUrl` must be a plain relative path inside the site. Absolute
 
 Opening `site/index.html` directly with `file://` is not supported by default because browsers often block `fetch()` for local JSON files. See `docs/local-file-mode.md` for an optional File API approach if you want a no-server local variant.
 
+Build a no-server offline demo ZIP:
+
+```bash
+node scripts/build-offline-package.js
+```
+
+The generated archive is `exports/client-side-data-explorer-offline-demo.zip`. Extract it and open `index.html` directly with the browser. The offline package embeds the configured dataset in `offline-data.js`, so it does not rely on `fetch()` or a local HTTP server.
+
 ## Checks
 
 Check the code-only repository structure:
@@ -104,14 +112,6 @@ Convert a BibTeX bibliography into the internal dataset format:
 ```bash
 node scripts/convert-bibtex-to-internal.js input.bib site/data/research-support.dataset.json
 ```
-
-Build a no-server offline demo ZIP:
-
-```bash
-node scripts/build-offline-package.js
-```
-
-The generated archive is `exports/client-side-data-explorer-offline-demo.zip`. Extract it and open `index.html` directly with the browser. The offline package embeds the configured dataset in `offline-data.js`, so it does not rely on `fetch()` or a local HTTP server.
 
 ## Disclaimers
 
